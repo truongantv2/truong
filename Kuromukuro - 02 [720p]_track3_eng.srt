@@ -1,0 +1,1180 @@
+﻿1
+00:01:00,870 --> 00:01:01,080
+OP
+
+2
+00:22:07,590 --> 00:22:07,680
+ED
+
+3
+00:00:00,000 --> 00:00:00,000
+Signs
+
+4
+00:00:25,520 --> 00:00:28,710
+Tell me, what lies at the end of that river?
+
+5
+00:00:29,370 --> 00:00:31,490
+The sea.
+
+6
+00:00:32,980 --> 00:00:35,300
+And beyond that sea?
+
+7
+00:00:35,300 --> 00:00:37,460
+Foreign lands.
+
+8
+00:00:40,020 --> 00:00:45,260
+I would very much like to see how they live there.
+
+9
+00:02:56,440 --> 00:02:57,710
+They're coming from the sea?
+
+10
+00:02:59,040 --> 00:03:02,050
+How about the visitors closer to 
+home? Did we take them out?
+
+11
+00:03:02,050 --> 00:03:05,130
+All mobile units here are responding to IFF signals.
+
+12
+00:03:05,130 --> 00:03:08,200
+However, some hostiles seem to have escaped from the premises.
+
+13
+00:03:08,380 --> 00:03:09,780
+Major!
+
+14
+00:03:09,780 --> 00:03:12,330
+I'm getting reports of similar occurrences outside of Japan as well!
+
+15
+00:03:12,680 --> 00:03:16,200
+Three squads have been confirmed already!
+
+16
+00:03:16,200 --> 00:03:19,130
+Any word from UN headquarters?
+
+17
+00:03:19,130 --> 00:03:20,540
+None.
+
+18
+00:03:20,540 --> 00:03:23,010
+There's too much conflicting information to tell what's happening.
+
+19
+00:03:23,010 --> 00:03:26,130
+But combat seems to breaking out all over the world.
+
+20
+00:03:27,170 --> 00:03:29,370
+Doomsday is upon us, huh?
+
+21
+00:03:55,080 --> 00:03:57,380
+Yukina! Are you all right?
+
+22
+00:03:57,620 --> 00:03:59,630
+What were you doing there?
+
+23
+00:03:59,630 --> 00:04:01,690
+Why didn't you just go home?
+
+24
+00:04:01,690 --> 00:04:03,220
+How should I know?
+
+25
+00:04:06,270 --> 00:04:09,580
+Was he kept on life support?
+
+26
+00:04:09,580 --> 00:04:11,600
+Or maybe it was cryogenic sleep?
+
+27
+00:04:12,950 --> 00:04:14,380
+Did he mention anything to you?
+
+28
+00:04:14,380 --> 00:04:15,960
+Only his name.
+
+29
+00:04:15,960 --> 00:04:17,750
+Wait, he spoke Japanese?
+
+30
+00:04:17,750 --> 00:04:18,570
+Yeah.
+
+31
+00:04:18,730 --> 00:04:19,670
+And what was his name?
+
+32
+00:04:19,670 --> 00:04:24,660
+Uh, Kennosuke Tokisada Ouma?
+
+33
+00:04:25,530 --> 00:04:27,120
+Never heard of it.
+
+34
+00:04:28,540 --> 00:04:30,900
+All right. Let's have a chat with him.
+
+35
+00:04:33,120 --> 00:04:34,830
+This is Director Shirahane.
+
+36
+00:04:35,140 --> 00:04:39,350
+The man from the cube should wake up soon, right?
+
+37
+00:04:40,040 --> 00:04:40,960
+What?
+
+38
+00:04:41,380 --> 00:04:44,740
+Well, yeah, but hang on. I'll be right there.
+
+39
+00:04:45,840 --> 00:04:47,750
+What's up, Hiromi?
+
+40
+00:04:47,750 --> 00:04:49,500
+Follow me, Paula.
+
+41
+00:04:49,500 --> 00:04:51,560
+And you return to your post, Jiro.
+
+42
+00:04:51,560 --> 00:04:53,530
+Wait, Director!
+
+43
+00:04:53,530 --> 00:04:55,310
+You stay put right here, Yukina.
+
+44
+00:05:27,260 --> 00:05:28,680
+Princess!
+
+45
+00:05:32,350 --> 00:05:34,100
+Sheesh.
+
+46
+00:05:34,100 --> 00:05:35,730
+Could this day get any worse?
+
+47
+00:05:35,730 --> 00:05:37,350
+Princess!
+
+48
+00:05:47,160 --> 00:05:49,750
+I wonder what he means by "Princess."
+
+49
+00:05:52,440 --> 00:05:53,780
+Is this...
+
+50
+00:06:06,260 --> 00:06:08,510
+Lab 4, apparently.
+
+51
+00:06:08,510 --> 00:06:11,640
+The hell is security doing?
+
+52
+00:06:11,640 --> 00:06:13,910
+Huh? It's open.
+
+53
+00:06:13,910 --> 00:06:16,020
+Which moron left it unlocked?
+
+54
+00:06:16,690 --> 00:06:18,040
+The director.
+
+55
+00:06:18,040 --> 00:06:18,980
+Again?
+
+56
+00:06:19,320 --> 00:06:22,520
+She forgets and runs off every now and then, doesn't she?
+
+57
+00:06:30,780 --> 00:06:34,240
+What's the point of quarantining him now?
+
+58
+00:06:34,240 --> 00:06:35,960
+He's out in the open already.
+
+59
+00:06:35,960 --> 00:06:37,740
+While it may be pointless,
+
+60
+00:06:37,740 --> 00:06:41,060
+he is a truly fascinating specimen.
+
+61
+00:06:41,060 --> 00:06:44,390
+If possible, I'd love to dissect him.
+
+62
+00:06:44,390 --> 00:06:45,940
+Uh, Dr. Hausen?
+
+63
+00:06:45,940 --> 00:06:46,810
+Apologies.
+
+64
+00:06:46,810 --> 00:06:47,920
+I was merely joking.
+
+65
+00:06:49,760 --> 00:06:51,100
+Er...
+
+66
+00:06:51,100 --> 00:06:53,760
+Kennosuke Ouma, was it?
+
+67
+00:06:57,480 --> 00:06:59,160
+Hello?
+
+68
+00:06:59,160 --> 00:07:01,480
+We'd like to have a chat with you.
+
+69
+00:07:06,260 --> 00:07:07,820
+He can understand Japanese, right?
+
+70
+00:07:09,030 --> 00:07:10,030
+Hiromi!
+
+71
+00:07:10,030 --> 00:07:11,930
+Unhand the director!
+
+72
+00:07:11,930 --> 00:07:13,440
+Let me out of here at once!
+
+73
+00:07:13,440 --> 00:07:14,990
+Or else I'll break your neck!
+
+74
+00:07:14,990 --> 00:07:16,110
+Oh, no!
+
+75
+00:07:16,110 --> 00:07:17,950
+Crap, he's dangerous!
+
+76
+00:07:26,210 --> 00:07:28,010
+What remarkable reflexes!
+
+77
+00:07:33,620 --> 00:07:34,800
+Princess!
+
+78
+00:07:34,800 --> 00:07:35,620
+He found me!
+
+79
+00:07:35,620 --> 00:07:36,600
+Pardon me!
+
+80
+00:07:42,650 --> 00:07:44,880
+Why'd you let him out?
+
+81
+00:07:44,880 --> 00:07:46,450
+What else was I supposed to do?
+
+82
+00:07:46,450 --> 00:07:49,240
+More importantly, why was Yukina there?
+
+83
+00:07:50,830 --> 00:07:51,840
+Hello.
+
+84
+00:07:51,840 --> 00:07:53,200
+The director?
+
+85
+00:07:53,670 --> 00:07:57,400
+You left your phone somewhere again, didn't you?
+
+86
+00:07:57,400 --> 00:07:59,130
+Shirahane speaking.
+
+87
+00:07:59,130 --> 00:08:00,710
+Huh? Permission to shoot?
+
+88
+00:08:01,130 --> 00:08:01,910
+No way!
+
+89
+00:08:01,910 --> 00:08:03,930
+What if you hit Yukina?!
+
+90
+00:08:03,930 --> 00:08:05,670
+Do not open fire under any circumstances!
+
+91
+00:08:11,510 --> 00:08:13,010
+I'm glad you're all right.
+
+92
+00:08:24,120 --> 00:08:25,600
+Who might you be?
+
+93
+00:08:25,600 --> 00:08:28,150
+Huh? Am I not your princess?
+
+94
+00:08:28,340 --> 00:08:30,940
+You are not! Who the hell are you, you conniving wench?!
+
+95
+00:08:30,940 --> 00:08:32,570
+"Conniving wench"?
+
+96
+00:08:32,570 --> 00:08:34,860
+Jerk! You're the one who mistook me for someone else!
+
+97
+00:08:34,860 --> 00:08:36,510
+Damn it!
+
+98
+00:08:36,510 --> 00:08:38,100
+So the princess really did...
+
+99
+00:08:38,730 --> 00:08:41,660
+And who are <i>you</i>, anyway?
+
+100
+00:08:42,140 --> 00:08:48,590
+A mere soldier tasked with protecting the princess.
+
+101
+00:08:49,020 --> 00:08:50,230
+How?!
+
+102
+00:08:50,230 --> 00:08:52,580
+What in the world is happening?
+
+103
+00:08:57,970 --> 00:08:59,260
+Why now?
+
+104
+00:08:59,260 --> 00:09:02,270
+It never responded to my calls before.
+
+105
+00:09:03,090 --> 00:09:04,140
+Steed!
+
+106
+00:09:08,520 --> 00:09:09,950
+You're kidding me.
+
+107
+00:09:11,270 --> 00:09:12,940
+Get in here.
+
+108
+00:09:16,180 --> 00:09:19,220
+W-Wait! What's going on here?
+
+109
+00:09:20,330 --> 00:09:21,080
+Yukina!
+
+110
+00:09:22,180 --> 00:09:23,390
+Below...
+
+111
+00:09:24,500 --> 00:09:27,120
+My instincts are telling me to travel downward.
+
+112
+00:09:36,920 --> 00:09:38,930
+This can't be happening!
+
+113
+00:09:47,680 --> 00:09:49,150
+Yukina?
+
+114
+00:09:57,430 --> 00:09:58,740
+The giant?
+
+115
+00:09:58,740 --> 00:10:00,030
+So it was here.
+
+116
+00:10:00,810 --> 00:10:03,540
+Wh-What is this?
+
+117
+00:10:03,540 --> 00:10:04,660
+A relic.
+
+118
+00:10:04,660 --> 00:10:05,370
+Relic?
+
+119
+00:10:06,370 --> 00:10:07,930
+The Black Relic.
+
+120
+00:10:07,930 --> 00:10:09,790
+My personal relic.
+
+121
+00:10:17,410 --> 00:10:18,180
+Ow!
+
+122
+00:10:24,420 --> 00:10:26,270
+What? What's all this?
+
+123
+00:10:27,480 --> 00:10:28,690
+Why do I understand it?
+
+124
+00:10:34,660 --> 00:10:35,610
+What now?
+
+125
+00:10:36,010 --> 00:10:37,070
+A demon!
+
+126
+00:10:38,160 --> 00:10:39,120
+A demon?
+
+127
+00:11:08,730 --> 00:11:09,810
+Sortie!
+
+128
+00:11:30,680 --> 00:11:32,360
+Crap!
+
+129
+00:11:33,870 --> 00:11:36,080
+Sorry!
+
+130
+00:11:50,840 --> 00:11:52,980
+What is this place?
+
+131
+00:11:53,720 --> 00:11:56,350
+The mountain peaks seem familiar...
+
+132
+00:11:56,350 --> 00:11:58,980
+But what is this lake?
+
+133
+00:11:59,450 --> 00:12:01,120
+Could it be the work of demons?
+
+134
+00:12:01,120 --> 00:12:02,330
+This is Kurobe Dam.
+
+135
+00:12:02,330 --> 00:12:04,320
+The manifestation of human genius!
+
+136
+00:12:04,320 --> 00:12:05,900
+Isn't it amazing?
+
+137
+00:12:07,310 --> 00:12:09,450
+What are you talking about, missy?
+
+138
+00:12:10,850 --> 00:12:12,120
+Yukina.
+
+139
+00:12:12,120 --> 00:12:13,110
+What?
+
+140
+00:12:13,110 --> 00:12:14,820
+I have a name.
+
+141
+00:12:17,130 --> 00:12:20,670
+Just how long have I been asleep?
+
+142
+00:12:20,670 --> 00:12:22,780
+Don't ask me.
+
+143
+00:12:22,780 --> 00:12:26,930
+I think the cube was found around 60 years ago,
+
+144
+00:12:26,930 --> 00:12:29,060
+so you've probably been asleep for even longer.
+
+145
+00:12:29,060 --> 00:12:31,370
+Lies! You shan't deceive me with your drivel!
+
+146
+00:12:31,370 --> 00:12:33,420
+I'm not trying to!
+
+147
+00:12:35,990 --> 00:12:37,530
+Uh...
+
+148
+00:12:37,530 --> 00:12:40,380
+Are you really from the past?
+
+149
+00:12:40,380 --> 00:12:43,610
+I haven't the foggiest what's past or present!
+
+150
+00:14:25,130 --> 00:14:26,800
+So it was destroyed?
+
+151
+00:14:26,800 --> 00:14:27,240
+Yes.
+
+152
+00:14:27,240 --> 00:14:31,100
+A combined assault by the JSDF and ASDF took out the one that landed in Nagano.
+
+153
+00:14:31,260 --> 00:14:32,810
+And while this is unconfirmed,
+
+154
+00:14:32,810 --> 00:14:35,930
+one seems to have been suppressed at the UN's Kurobe facility.
+
+155
+00:14:35,930 --> 00:14:37,640
+How did the security there manage that?
+
+156
+00:14:37,640 --> 00:14:39,310
+Apparently they used the GAUS.
+
+157
+00:14:39,980 --> 00:14:41,180
+The GAUS...
+
+158
+00:14:41,180 --> 00:14:43,880
+The remaining four are on the move!
+
+159
+00:14:43,880 --> 00:14:45,050
+Where are they headed?
+
+160
+00:14:45,050 --> 00:14:48,900
+Towards Object 1, which has made landfall in Toyama!
+
+161
+00:14:49,400 --> 00:14:52,570
+Another large mobile unit detected!
+
+162
+00:14:52,570 --> 00:14:53,920
+Where did it come from?
+
+163
+00:14:53,920 --> 00:14:55,900
+The Kurobe research facility.
+
+164
+00:14:55,900 --> 00:14:59,560
+If it continues down its current course, it'll meet up with Object 1!
+
+165
+00:14:59,560 --> 00:15:01,400
+I thought they took one out!
+
+166
+00:15:01,400 --> 00:15:02,200
+Colonel.
+
+167
+00:15:03,100 --> 00:15:06,200
+It's from Director Shirahane of the Kurobe research facility.
+
+168
+00:15:06,200 --> 00:15:07,710
+From the facility?
+
+169
+00:15:08,140 --> 00:15:09,060
+Hello?
+
+170
+00:15:09,060 --> 00:15:10,680
+This is Director Shirahane.
+
+171
+00:15:10,680 --> 00:15:14,330
+The large geoframe that just left this facility is the artifact codenamed Giant.
+
+172
+00:15:14,330 --> 00:15:15,920
+What? Giant?
+
+173
+00:15:15,920 --> 00:15:18,350
+Please don't attack it.
+
+174
+00:15:18,350 --> 00:15:20,860
+It's one of humanity's most prized assets.
+
+175
+00:15:22,740 --> 00:15:24,450
+Artifact?
+
+176
+00:15:24,980 --> 00:15:29,570
+{\an8}Disaster alert. Disaster alert.
+
+177
+00:15:29,570 --> 00:15:34,490
+{\an8}Further information will be relayed through television and radio broadcasts.
+
+178
+00:15:33,800 --> 00:15:36,320
+This is crazy!
+
+179
+00:15:36,800 --> 00:15:38,820
+What is?
+
+180
+00:15:39,780 --> 00:15:44,650
+Apparently some mysterious giant robot popped out of the sea!
+
+181
+00:15:48,460 --> 00:15:51,710
+Do you really think you'll catch a glimpse of it from there?
+
+182
+00:15:59,730 --> 00:16:01,850
+What in seven hells is that?!
+
+183
+00:16:04,730 --> 00:16:05,800
+Tributary... Distributary...
+
+184
+00:16:05,800 --> 00:16:06,650
+Crossroad gorge...
+
+185
+00:16:06,650 --> 00:16:07,580
+River terraces...
+
+186
+00:16:07,580 --> 00:16:09,030
+Braided streams!
+
+187
+00:16:09,690 --> 00:16:12,840
+Hey! Don't crush any homes!
+
+188
+00:16:12,840 --> 00:16:15,470
+No, no! Don't kick the bridge!
+
+189
+00:16:15,470 --> 00:16:16,660
+Such a pain in the neck.
+
+190
+00:16:24,360 --> 00:16:26,920
+Why can I tell?
+
+191
+00:16:26,920 --> 00:16:28,710
+Oh, is this a radar?
+
+192
+00:16:29,190 --> 00:16:30,420
+You understand it?
+
+193
+00:16:30,420 --> 00:16:32,340
+Y-Yeah.
+
+194
+00:16:32,340 --> 00:16:35,250
+I'm not sure why, but I do understand it.
+
+195
+00:16:35,250 --> 00:16:37,390
+How does <i>that</i> work?
+
+196
+00:16:38,400 --> 00:16:42,800
+Um, we'll be entering city limits soon, so please be careful.
+
+197
+00:16:42,800 --> 00:16:44,390
+City limits?
+
+198
+00:16:46,360 --> 00:16:47,360
+What the...
+
+199
+00:16:48,210 --> 00:16:51,360
+What is with that mountain of tombstones?
+
+200
+00:16:51,360 --> 00:16:54,620
+They're buildings, not tombs!
+
+201
+00:16:54,620 --> 00:16:55,870
+Buildings?
+
+202
+00:16:55,870 --> 00:16:58,280
+Don't destroy them, no matter what!
+
+203
+00:17:04,290 --> 00:17:05,950
+U-Uh...
+
+204
+00:17:05,950 --> 00:17:08,020
+What are you going to do now?
+
+205
+00:17:08,020 --> 00:17:09,920
+Regardless of how the world may change,
+
+206
+00:17:09,920 --> 00:17:11,580
+my duty remains the same:
+
+207
+00:17:13,900 --> 00:17:15,800
+slaying the demons!
+
+208
+00:17:45,210 --> 00:17:47,020
+What was that just now?
+
+209
+00:17:47,020 --> 00:17:48,330
+A demon.
+
+210
+00:17:48,330 --> 00:17:49,040
+A demon?
+
+211
+00:17:58,220 --> 00:17:59,300
+That's...
+
+212
+00:18:00,650 --> 00:18:02,310
+...a demon?
+
+213
+00:18:03,250 --> 00:18:06,020
+They will return to devour humans once more.
+
+214
+00:18:07,200 --> 00:18:09,810
+They really did return...
+
+215
+00:18:09,810 --> 00:18:11,980
+And wait, I'm gonna get eaten?!
+
+216
+00:18:11,980 --> 00:18:15,840
+No way! First I get abducted by a nutcase, and now some demon's gonna munch on my bones?
+
+217
+00:18:15,840 --> 00:18:16,940
+This is the pits!
+
+218
+00:18:16,940 --> 00:18:18,280
+Quit your whining!
+
+219
+00:18:18,910 --> 00:18:21,710
+Human lives don't matter to them in the least.
+
+220
+00:18:21,710 --> 00:18:23,370
+If we do not slay the demons here,
+
+221
+00:18:23,370 --> 00:18:25,200
+the entire world will perish!
+
+222
+00:18:28,080 --> 00:18:29,980
+There's a whole bunch of them now.
+
+223
+00:18:29,980 --> 00:18:30,820
+How many?
+
+224
+00:18:30,820 --> 00:18:32,590
+Uh, four!
+
+225
+00:18:46,480 --> 00:18:48,830
+A-And now we're surrounded!
+
+226
+00:18:48,830 --> 00:18:49,850
+What are we gonna do?!
+
+227
+00:18:59,700 --> 00:19:00,800
+It pierced through!
+
+228
+00:19:12,630 --> 00:19:13,980
+These rotten minions.
+
+229
+00:19:13,980 --> 00:19:14,590
+Left!
+
+230
+00:19:21,030 --> 00:19:21,930
+Behind!
+
+231
+00:19:43,220 --> 00:19:43,910
+What?!
+
+232
+00:19:50,500 --> 00:19:51,650
+Huh?
+
+233
+00:20:02,810 --> 00:20:04,430
+Scurrying around like a rodent...
+
+234
+00:20:06,320 --> 00:20:11,310
+Why do you fight the demons, Kennosuke?
+
+235
+00:20:11,660 --> 00:20:14,730
+To protect someone?
+
+236
+00:20:15,910 --> 00:20:17,360
+Because I hate them!
+
+237
+00:20:39,160 --> 00:20:40,630
+Get back! Above you!
+
+238
+00:20:46,150 --> 00:20:47,600
+You did well to notice!
+
+239
+00:20:59,610 --> 00:21:01,320
+This is the end!
+
+240
+00:21:18,220 --> 00:21:19,750
+Damn, I let it escape.
+
+241
+00:21:26,060 --> 00:21:30,180
+Say, do I resemble your princess?
+
+242
+00:21:30,180 --> 00:21:32,000
+Not in the least.
+
+243
+00:21:32,000 --> 00:21:34,520
+Why'd you mistake me for her, then?
+
+244
+00:21:34,520 --> 00:21:37,850
+Is that princess still out there somewhere?
+
+245
+00:21:38,710 --> 00:21:40,090
+The princess...
+
+246
+00:21:41,780 --> 00:21:43,030
+is dead.
+
+247
+00:23:30,870 --> 00:23:35,130
+We don't know anything about this black giant.
+
+248
+00:23:35,130 --> 00:23:39,060
+The samurai seems to be calling it the Black Relic, though.
+
+249
+00:00:59,660 --> 00:01:02,160
+Immorality creaks in the dark
+
+250
+00:01:02,160 --> 00:01:04,720
+Blurring the advantages of evolution
+
+251
+00:01:04,720 --> 00:01:07,270
+Sorrow remains silent
+
+252
+00:01:07,270 --> 00:01:09,170
+Simply praying for the safety of the soul
+
+253
+00:01:24,310 --> 00:01:27,010
+I'm always just barely behind the times
+
+254
+00:01:27,010 --> 00:01:29,270
+Surrounded by thick gray clouds
+
+255
+00:01:29,270 --> 00:01:31,860
+Acid rain pours down on me
+
+256
+00:01:31,860 --> 00:01:34,440
+Melting away my morals tonight
+
+257
+00:01:34,440 --> 00:01:36,660
+Everyone's assigned an alphabet
+
+258
+00:01:36,660 --> 00:01:39,300
+Everyone's called by their code
+
+259
+00:01:39,300 --> 00:01:41,760
+Acting with no sense of reason
+
+260
+00:01:41,760 --> 00:01:43,950
+For whom are these battles fought
+
+261
+00:01:43,950 --> 00:01:49,970
+The scar that remains in the corner of my memories
+
+262
+00:01:49,970 --> 00:01:53,490
+shed light to the end
+
+263
+00:01:53,490 --> 00:01:58,050
+A voice in the distance whispered gently
+
+264
+00:01:58,050 --> 00:02:03,430
+A new age is coming
+
+265
+00:02:03,430 --> 00:02:05,870
+Love transcends time
+
+266
+00:02:05,870 --> 00:02:08,380
+Dreams go the distance
+
+267
+00:02:08,380 --> 00:02:13,260
+Voices will reach to the ends of the earth
+
+268
+00:02:13,260 --> 00:02:15,780
+No matter how weak the light
+
+269
+00:02:15,780 --> 00:02:18,280
+I have the ultimate strength to believe
+
+270
+00:02:18,280 --> 00:02:23,080
+This is the strength of our bond
+
+271
+00:02:23,080 --> 00:02:28,960
+Love will transcend time
+
+272
+00:22:19,510 --> 00:22:23,340
+Everyone's lonely and a stranger to others
+
+273
+00:22:23,340 --> 00:22:26,170
+The names we are given
+
+274
+00:22:26,170 --> 00:22:34,240
+Can be easily taken away
+
+275
+00:22:34,640 --> 00:22:38,580
+The mirror shows our weaknesses
+
+276
+00:22:38,580 --> 00:22:41,570
+We can't look away from it
+
+277
+00:22:41,570 --> 00:22:50,290
+It is our feelings that make our hearts scream out in pain
+
+278
+00:22:58,040 --> 00:22:59,030
+Don't stop
+
+279
+00:22:59,030 --> 00:23:02,340
+Even if I have to take on the pain of others
+
+280
+00:23:02,340 --> 00:23:06,370
+I will change the world one step at a time
+
+281
+00:23:06,370 --> 00:23:10,580
+Acting on emotions won't help us understand each other
+
+282
+00:23:10,580 --> 00:23:14,170
+But I won't stop believing in my reality
+
+283
+00:23:14,170 --> 00:23:17,430
+I want to keep on living
+
+284
+00:23:17,430 --> 00:23:21,980
+Because ever since I met you
+
+285
+00:23:21,980 --> 00:23:25,310
+Something's taken root deep within my heart
+
+286
+00:23:25,310 --> 00:23:29,690
+And it is starting to bloom
+
+287
+00:05:28,680 --> 00:05:29,450
+{\an7\fs40}Mika (Cell): You alive?
+ Me: Yeah, I am. You?
+
+288
+00:05:29,450 --> 00:05:31,850
+{\an7\fs40}Mika (Cell): You alive?
+ Me: Yeah, I am. You? 
+Mika(Cell): Taking shelter underground 
+with my old man.
+
+289
+00:05:55,850 --> 00:05:57,160
+{\an7}ID Validated
+Hiromi Shirahane
+
+290
+00:06:16,540 --> 00:06:18,980
+{\an8}History: Hiromi Shirahane
+
+291
+00:13:08,970 --> 00:13:15,020
+The Black Relic Awakened
+
+292
+00:23:34,120 --> 00:23:38,060
+{\an7\fs30}Black Relic: 19.5m tall (21.9m including the horns).
+ Humanoid relic found during dam construction work 60 years ago.
+Along with the 3m cube, it is an artifact currently being researched at the Kurobe Research Facility.
+
+293
+00:23:39,060 --> 00:23:40,020
+The Castle Ruins Cannot Turn Back Time
+
