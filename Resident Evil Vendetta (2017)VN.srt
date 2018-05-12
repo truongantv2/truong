@@ -1,0 +1,2480 @@
+﻿1
+00:00:00,000 --> 00:00:20,000
+
+2
+00:01:17,677 --> 00:01:20,045
+<i>Khi tôi còn nhỏ,...</i>
+
+3
+00:01:20,080 --> 00:01:21,695
+<i>...tôi thường nghĩ về kiểu người...</i>
+
+4
+00:01:21,715 --> 00:01:23,415
+<i>...mà mình sẽ trở thành.</i>
+
+5
+00:01:51,411 --> 00:01:55,114
+<i>Tôi chưa từng nghĩ
+đời mình sẽ lệch hướng như vậy.</i>
+
+6
+00:02:18,572 --> 00:02:21,239
+Vậy ra, anh là Chris Redfield.
+
+7
+00:02:21,274 --> 00:02:23,190
+Chuyên gia về xác sống.
+
+8
+00:02:23,210 --> 00:02:24,810
+Một anh hùng lớn.
+
+9
+00:02:26,446 --> 00:02:29,214
+Chắc là anh giết chóc cũng nhiều rồi nhỉ?
+
+10
+00:02:29,249 --> 00:02:30,597
+Quý ngài Chuyên gia...
+
+11
+00:02:30,617 --> 00:02:33,299
+...có lời khuyên gì về
+cách đối phó với chúng không?
+
+12
+00:02:33,887 --> 00:02:35,087
+Có chữ.
+
+13
+00:02:36,856 --> 00:02:39,257
+Anh có bạn chứ?
+
+14
+00:02:39,292 --> 00:02:41,459
+Dĩ nhiên, tôi có.
+
+15
+00:02:41,494 --> 00:02:43,328
+- Gia đình thì sao?
+- Cũng có.
+
+16
+00:02:43,363 --> 00:02:45,864
+Tôi có vợ, còn người nữa.
+
+17
+00:02:45,899 --> 00:02:47,399
+Một cô em gái.
+
+18
+00:02:49,669 --> 00:02:53,605
+Những tập đoàn ngoài đó
+đã tạo ra virus...
+
+19
+00:02:53,640 --> 00:02:56,308
+...biến loài người thành vũ khí sinh học.
+
+20
+00:02:56,343 --> 00:02:58,410
+Đó là những người như tôi và anh.
+
+21
+00:02:58,445 --> 00:03:01,780
+Như bạn anh, gia đình anh.
+
+22
+00:03:01,815 --> 00:03:05,217
+Sẽ có một ngay anh
+phải đối mặt với một quyết định.
+
+23
+00:03:05,252 --> 00:03:06,751
+Giết họ...
+
+24
+00:03:06,786 --> 00:03:09,454
+...hoặc bị giết.
+
+25
+00:03:09,489 --> 00:03:12,257
+Nghe có vẻ không anh hùng lắm nhỉ?
+
+26
+00:03:18,198 --> 00:03:19,531
+Tôi rất tiếc.
+
+27
+00:03:22,435 --> 00:03:24,818
+Chúng ta đang tiếp cận mục tiêu,
+thế nên hãy cùng nhau vượt qua mọi thứ...
+
+28
+00:03:24,838 --> 00:03:27,066
+...thêm một lần nữa
+mà không mắc phải sai lầm.
+
+29
+00:03:28,742 --> 00:03:30,442
+Mục tiêu là Glenn Arias.
+
+30
+00:03:30,477 --> 00:03:32,926
+Hắn muốn quốc tế hóa việc bán vũ khí.
+
+31
+00:03:32,946 --> 00:03:35,880
+Và chúng ta đang không nói về
+những khẩu M16 hay những quả bom IED đâu.
+
+32
+00:03:35,915 --> 00:03:38,283
+Ta đang nói về những thứ tân tiến nhất.
+
+33
+00:03:38,318 --> 00:03:39,551
+Hắn thích kinh doanh...
+
+34
+00:03:39,586 --> 00:03:41,334
+...ở mọi nơi có xung đột lớn.
+
+35
+00:03:41,354 --> 00:03:45,290
+Intel nói rằng Arias hiện đang sở hữu B.O.W
+
+36
+00:03:45,325 --> 00:03:49,327
+...tức vũ khí sinh học.
+
+37
+00:03:49,362 --> 00:03:51,278
+Đó là lý do BSAA ở đây.
+
+38
+00:03:51,298 --> 00:03:53,526
+Họ biết cách xử lý những vụ thế này.
+
+39
+00:03:54,434 --> 00:03:56,516
+Một trong những đặc vụ ngầm
+của chúng tôi, Cathy White,...
+
+40
+00:03:56,536 --> 00:03:59,771
+...đã mất tích vài tuần trước
+cùng con trai của cô ấy, Zack.
+
+41
+00:03:59,806 --> 00:04:01,521
+Ngày hôm nay chúng ta có hai nhiệm vụ:
+
+42
+00:04:01,541 --> 00:04:02,974
+Tìm họ...
+
+43
+00:04:03,009 --> 00:04:05,410
+...và bắt Glenn Arias.
+
+44
+00:04:51,024 --> 00:04:53,358
+Báo cáo đi.
+
+45
+00:04:53,393 --> 00:04:55,760
+<i>Không có dấu hiệu khả nghi bên ngoài.</i>
+
+46
+00:04:55,795 --> 00:04:57,429
+Chia thành 3 đội.
+
+47
+00:04:57,464 --> 00:04:58,864
+Chúng ta sẽ vào.
+
+48
+00:05:32,031 --> 00:05:33,465
+Trống.
+
+49
+00:08:12,191 --> 00:08:13,758
+Chúa ơi.
+
+50
+00:09:05,712 --> 00:09:07,045
+Nhóc ổn chứ?
+
+51
+00:09:18,791 --> 00:09:20,158
+Đi thôi!
+
+52
+00:10:42,008 --> 00:10:43,374
+Zack?
+
+53
+00:10:43,409 --> 00:10:44,876
+Đúng.
+
+54
+00:10:47,847 --> 00:10:48,947
+Đi nào!
+
+55
+00:11:49,208 --> 00:11:50,942
+Redfield, vào đi.
+
+56
+00:11:53,012 --> 00:11:55,680
+Mọi người, có cái quái gì trong đó vậy?
+
+57
+00:12:02,989 --> 00:12:05,724
+Cần rút lui gấp.
+Xin điều trực thăng tới ngay.
+
+58
+00:12:25,878 --> 00:12:27,278
+Ra khỏi đây đi.
+
+59
+00:13:50,129 --> 00:13:51,462
+Arias.
+
+60
+00:14:51,157 --> 00:14:55,192
+Cảm ơn nhé,
+tôi phải chuyển khu vực kinh doanh thôi.
+
+61
+00:14:55,227 --> 00:14:57,962
+Đồ khốn.
+
+62
+00:14:57,997 --> 00:15:00,264
+Cho xin.
+
+63
+00:15:00,299 --> 00:15:03,601
+Tôi chỉ là một doanh nhân thôi.
+
+64
+00:15:03,636 --> 00:15:07,972
+Tôi tạo ra những sản phẩm chất lượng
+để phục vụ những ai cần nó...
+
+65
+00:15:08,007 --> 00:15:11,108
+cùng một cái gá phải chăng.
+
+66
+00:15:11,143 --> 00:15:14,178
+Ví dụ nhé, đây...
+
+67
+00:15:14,213 --> 00:15:15,613
+...là một mẫu stinh tế.
+
+68
+00:15:27,460 --> 00:15:29,961
+Cathy.
+
+69
+00:15:31,497 --> 00:15:34,031
+Đồ khốn.
+
+70
+00:15:34,066 --> 00:15:35,933
+Thời khắc cuối cùng trên Trái đất...
+
+71
+00:15:35,968 --> 00:15:38,069
+...là thời khắc tuyệt nhất, anh nghĩ vậy không?
+
+72
+00:15:57,456 --> 00:15:59,438
+Điều tuyệt nhất về sản phẩm của tôi...
+
+73
+00:15:59,458 --> 00:16:01,974
+...là chúng phân biệt được đồng minh...
+
+74
+00:16:01,994 --> 00:16:04,295
+...và kẻ thù.
+
+75
+00:17:50,536 --> 00:17:53,404
+- Chúc mừng!
+- Chúc mừng.
+
+76
+00:19:02,875 --> 00:19:06,410
+Không!
+
+77
+00:19:37,176 --> 00:19:39,877
+Mọi thứ này là vì em, em yêu.
+
+78
+00:19:43,616 --> 00:19:45,483
+Sara của anh.
+
+79
+00:20:23,989 --> 00:20:26,290
+Là vậy sao?
+
+80
+00:20:26,325 --> 00:20:29,426
+Loại virus đó sẽ khiến người ta tức giận sao?
+
+81
+00:20:29,461 --> 00:20:30,561
+Phải.
+
+82
+00:20:31,830 --> 00:20:33,797
+Ngày càng trở nên tồi tệ hơn.
+
+83
+00:20:33,832 --> 00:20:36,367
+Bạo loạn xảy ra ở mọi nơi.
+
+84
+00:20:38,337 --> 00:20:39,870
+Cô lấy nó ở đâu?
+
+85
+00:20:39,905 --> 00:20:41,854
+Tôi chưa từng xem đoạn phim này trước kia.
+
+86
+00:20:41,874 --> 00:20:44,308
+Nó chưa từng được công bố.
+
+87
+00:20:44,343 --> 00:20:46,777
+Họ không muốn công khai để gây hoảng loạn.
+
+88
+00:20:46,812 --> 00:20:48,512
+Cô đùa à?
+
+89
+00:20:48,547 --> 00:20:51,682
+Đã có tới 20 vụ bạo loạn
+xảy ra khắp nước Mỹ đấy.
+
+90
+00:20:51,717 --> 00:20:54,418
+BSAA đang cố kiểm soát nó, nhưng...
+
+91
+00:20:54,453 --> 00:20:56,335
+Nhưng vẫn xảy ra như cơm bữa...
+
+92
+00:20:56,355 --> 00:20:58,989
+...cho tới khi tìm được nguyên nhân
+và giải pháp, phải không?
+
+93
+00:20:59,024 --> 00:21:01,592
+Chính xác.
+
+94
+00:21:01,627 --> 00:21:03,827
+Chuyện này xảy ra theo chủ ý.
+
+95
+00:21:03,862 --> 00:21:06,630
+Nếu chúng ta tìm được kẻ đứng đằng sau thì...
+
+96
+00:21:06,665 --> 00:21:08,232
+Caramel macchiato?
+
+97
+00:21:08,267 --> 00:21:10,367
+Anh có nhớ bánh quy chocolate không?
+
+98
+00:21:10,402 --> 00:21:11,950
+Và kem phủ bề mặt.
+
+99
+00:21:11,970 --> 00:21:13,871
+Tốt lắm.
+
+100
+00:21:13,906 --> 00:21:16,840
+Đó là món tráng miệng, không phải cà phê.
+Cô biết chưa?
+
+101
+00:21:16,875 --> 00:21:19,476
+Ý anh là sao?
+
+102
+00:21:19,511 --> 00:21:22,346
+Không có gì, không có gì cả, Giáo sư Chambers.
+
+103
+00:21:30,856 --> 00:21:36,560
+Người chết tỉnh dậy
+và trở thành vũ khí sinh học.
+
+104
+00:21:36,595 --> 00:21:38,477
+Những tập đoàn điên loạn đã tạo ra...
+
+105
+00:21:38,497 --> 00:21:40,746
+...quá nhiều bi kịch cho đất nước này.
+
+106
+00:21:40,766 --> 00:21:43,515
+Cô có nghĩ ra đó là kẻ nào không?
+
+107
+00:21:43,535 --> 00:21:45,035
+Không.
+
+108
+00:21:45,070 --> 00:21:47,538
+Dựa trên những chuyện đã xảy ra,
+
+109
+00:21:47,573 --> 00:21:50,040
+chuyện lần này có vẻ khác lắm.
+
+110
+00:21:50,075 --> 00:21:53,744
+Có kẻ mới nhúng tay vào chuyện này.
+
+111
+00:21:53,779 --> 00:21:55,479
+Đó là mô phỏng vaccine à?
+
+112
+00:21:56,682 --> 00:21:58,716
+Người bị nhiễm đang thể hiện...
+
+113
+00:21:58,751 --> 00:22:00,432
+...những điểm khác mọi khi quanh đây.
+
+114
+00:22:00,452 --> 00:22:02,634
+Tôi đang cố gắng để ngăn chặn virus nhân tạo...
+
+115
+00:22:02,654 --> 00:22:05,422
+...bởi nó có vẻ là cơ sở của việc lây nhiễm.
+
+116
+00:22:05,457 --> 00:22:08,525
+Tôi đã thấy cách hệ thống hóa chạy.
+
+117
+00:22:08,560 --> 00:22:10,309
+Chúng ta đang tạo thuốc thử sao?
+
+118
+00:22:10,329 --> 00:22:11,729
+Dĩ nhiên rồi.
+
+119
+00:22:11,764 --> 00:22:13,645
+Công nghệ của chúng ta đã tiến xa nhiều năm qua,
+
+120
+00:22:13,665 --> 00:22:15,665
+...việc tạo mẫu thử không tốn nhiều thời gian nữa.
+
+121
+00:22:17,469 --> 00:22:19,536
+Mà nhân tiện thì,
+
+122
+00:22:19,571 --> 00:22:22,673
+...chúng ta nhận được
+một chuyến hàng khác chứa cơ thể bị nhiễm.
+
+123
+00:22:22,708 --> 00:22:25,409
+Nhiều lắm, khoảng hơn 30.
+
+124
+00:22:25,444 --> 00:22:27,010
+Ai nhận mẫu vậy?
+
+125
+00:22:27,045 --> 00:22:29,880
+Sinh viên hôm nay nghỉ hết rồi.
+
+126
+00:22:29,915 --> 00:22:31,448
+Và...?
+
+127
+00:22:31,483 --> 00:22:35,986
+Không, tôi có bằng Tiến sĩ rồi.
+Tôi không làm được đâu.
+
+128
+00:22:37,656 --> 00:22:41,959
+Được rồi, sao cũng được,
+Giáo sư Chambers.
+
+129
+00:22:43,929 --> 00:22:45,696
+Người hùng của tôi.
+
+130
+00:23:20,966 --> 00:23:22,099
+Cái quái...?
+
+131
+00:26:59,217 --> 00:27:01,284
+Aaron.
+
+132
+00:27:01,319 --> 00:27:03,020
+Không.
+
+133
+00:28:07,919 --> 00:28:10,320
+Sao? Sao lại bây giờ?
+
+134
+00:28:10,355 --> 00:28:11,922
+Sao lại ở đây?
+
+135
+00:28:13,358 --> 00:28:15,313
+Chắc hẳn phải có kế hoạch.
+
+136
+00:30:45,443 --> 00:30:47,477
+Rebecca.
+
+137
+00:30:47,512 --> 00:30:50,080
+- Chris?
+- Cô ổn chứ?
+
+138
+00:31:06,097 --> 00:31:07,364
+Được một lúc rồi.
+
+139
+00:31:09,401 --> 00:31:12,969
+Anh chí ít cũng nên mặc một bộ
+sạch sẽ hoặc là đeo mặt lạ.
+
+140
+00:31:13,004 --> 00:31:15,405
+Phải, ừ thì...
+
+141
+00:31:15,440 --> 00:31:17,074
+Cô sao rồi?
+
+142
+00:31:18,576 --> 00:31:21,211
+Giờ thì tôi ổn.
+
+143
+00:31:21,246 --> 00:31:23,380
+Nhưng tôi sẽ không phải cách ly, phải không?
+
+144
+00:31:25,450 --> 00:31:27,450
+Nghe này,
+
+145
+00:31:27,485 --> 00:31:29,868
+Nếu virus thực sự lây nhiễm,
+
+146
+00:31:29,888 --> 00:31:32,322
+chúng ta chết chắc.
+
+147
+00:31:32,357 --> 00:31:36,359
+Với lại, việc cách ly không lâu đâu,
+và tôi cần cô làm vậy.
+
+148
+00:31:36,394 --> 00:31:38,295
+Thế nên đừng lo lắng.
+
+149
+00:31:38,330 --> 00:31:41,103
+Chúng tôi sẽ cho cô bồn nước nóng,
+và mọi thứ giúp cô ổn.
+
+150
+00:31:43,268 --> 00:31:44,902
+Vẫn vậy mãi thôi, Chris.
+
+151
+00:31:48,106 --> 00:31:50,240
+<i>Báo cáo của cảnh sát nói các nghi phạm...</i>
+
+152
+00:31:50,275 --> 00:31:52,075
+<i>đều là khủng bố có vũ trang.</i>
+
+153
+00:31:52,110 --> 00:31:54,426
+<i>Tới giờ, báo cáo về số người chết...</i>
+
+154
+00:31:54,446 --> 00:31:58,181
+<i>về vụ giết người
+hàng loạt ở thị trấn ngoài Chicago này là do...</i>
+
+155
+00:31:58,216 --> 00:32:03,053
+<i>sự bùng nổ bạo lực bất ngờ
+đã cướp đi sinh mạng hàng chục nạn nhân hôm nay.</i>
+
+156
+00:32:03,430 --> 00:32:07,810
+<i>Lực lượng an ninh đặc biệt của Ontario
+tuyên bố tình hình đã được kiểm soát.</i>
+
+157
+00:32:07,910 --> 00:32:11,040
+<i>Đó có thể là phát ngôn chính thức về vụ việc.</i>
+
+158
+00:32:11,140 --> 00:32:12,940
+Là tôi đây.
+
+159
+00:32:21,250 --> 00:32:23,340
+Hình như cô không nghỉ ngơi.
+
+160
+00:32:24,350 --> 00:32:26,190
+Bồn nước nóng không được tuyệt cho lắm.
+
+161
+00:32:29,360 --> 00:32:31,420
+Đó là dữ liệu cô lấy từ phòng nghiên cứu à?
+
+162
+00:32:31,520 --> 00:32:33,000
+Phải.
+
+163
+00:32:33,100 --> 00:32:35,600
+Giờ thì ta cần gửi vaccine thử nghiệm...
+
+164
+00:32:35,700 --> 00:32:38,530
+...tới các phòng thí nghiệm khác ngoài ASAP.
+
+165
+00:32:38,630 --> 00:32:42,440
+Càng sản xuất nhanh, càng cứu được nhiều mạng người.
+
+166
+00:32:42,840 --> 00:32:45,010
+Phải, có lẽ vậy.
+
+167
+00:32:46,730 --> 00:32:48,650
+Không phải đó là lý do anh ở đây sao?
+
+168
+00:32:49,450 --> 00:32:51,280
+Anh đang theo đuổi ai đó.
+
+169
+00:32:51,720 --> 00:32:54,500
+Đúng, một kẻ tên là Glenn Arias.
+
+170
+00:32:55,180 --> 00:32:56,920
+Đó là ai?
+
+171
+00:32:57,020 --> 00:32:59,890
+Hắn điều hành Neo Umbrella
+và Quân sự của Tricell.
+
+172
+00:32:59,990 --> 00:33:04,290
+Và giờ hắn bán vũ khí cho các tổ chức tội phạm
+và các nước đang chiến tranh.
+
+173
+00:33:04,390 --> 00:33:06,430
+Hắn kinh doanh trên cái chết,
+
+174
+00:33:06,530 --> 00:33:09,760
+sử dụng lính đánh thuê và những quả B.O.W
+để hoàn thành công việc bẩn thỉu của mình.
+
+175
+00:33:10,000 --> 00:33:11,380
+Và giờ thì...
+
+176
+00:33:12,150 --> 00:33:13,880
+...người chết sống dậy.
+
+177
+00:33:14,940 --> 00:33:17,440
+Anh có chắc Arias đứng đằng sau chuyện này chứ?
+
+178
+00:33:17,540 --> 00:33:19,040
+Chắc.
+
+179
+00:33:19,140 --> 00:33:21,920
+Sau khi tôi phát hiện ra
+nghiên cứu của cô hiện đại nhất Thế giới...
+
+180
+00:33:22,020 --> 00:33:25,080
+Anh đã nhảy khỏi một chiếc trực thăng và tới gặp tôi.
+
+181
+00:33:25,180 --> 00:33:26,620
+Đúng.
+
+182
+00:33:26,720 --> 00:33:29,050
+Và tôi thấy cái phòng thí nghiệm
+rác thải của cô...
+
+183
+00:33:29,150 --> 00:33:32,420
+...như kiểu có gã nào đó đã biết về nghiên cứu.
+
+184
+00:33:33,360 --> 00:33:36,560
+Tôi đã báo cáo những
+phát hiện ban đầu của chúng tôi cho WHO.
+
+185
+00:33:36,660 --> 00:33:39,140
+Và sau đó họ sẽ gửi tới các cơ sở trên toàn thế giới...
+
+186
+00:33:39,240 --> 00:33:41,430
+...chuyên về phát triển vaccine.
+
+187
+00:33:41,530 --> 00:33:44,130
+Chuyện rò rỉ có thể
+đến từ bất kỳ nguồn nào ở những nơi đó.
+
+188
+00:33:44,230 --> 00:33:47,800
+- Chính xác.
+- Arias muốn gián đoạn nghiên cứu.
+
+189
+00:33:47,900 --> 00:33:51,110
+Và giờ khi đã có dữ liệu của cô,
+hắn sẽ nguy hiểm hơn gấp bội.
+
+190
+00:33:54,210 --> 00:33:58,420
+Tôi đã so sánh DNA của virus mới
+với tất cả vi sinh vật chúng tôi có trong hồ sơ.
+
+191
+00:33:59,120 --> 00:34:01,920
+Cấu trúc của nó rất gần với vũ khí kí sinh...
+
+192
+00:34:02,020 --> 00:34:04,420
+...được sử dụng bởi tôn giáo Los Iluminados.
+
+193
+00:34:05,920 --> 00:34:08,160
+Cô nghĩ Arias có thể là một tín đồ?
+
+194
+00:34:08,260 --> 00:34:11,510
+Dựa vào cơ sở tôi hiện có, không chắc nữa.
+
+195
+00:34:14,660 --> 00:34:17,300
+Có vẻ chúng ta cần nói chuyện với chuyên gia thực sự.
+
+196
+00:34:17,600 --> 00:34:19,400
+Chuyên gia thực sự?
+
+197
+00:34:34,720 --> 00:34:37,720
+Tôi không tin nổi lúc này mà anh còn đọc sách được.
+
+198
+00:34:40,360 --> 00:34:42,590
+Tôi nghĩ đó là một cách giết thời gian.
+
+199
+00:34:43,660 --> 00:34:47,220
+Có người từng nói: "Tri thức là sức mạnh."
+
+200
+00:34:47,760 --> 00:34:49,400
+Francis Bacon.
+
+201
+00:34:51,500 --> 00:34:54,740
+Chỉ cần tốn một viên đạn để hạ kẻ thù.
+
+202
+00:34:55,440 --> 00:34:58,840
+Nhưng với kiến thức, có thể hạ tất cả lũ quỷ.
+
+203
+00:35:01,380 --> 00:35:04,180
+Này, họ nói đúng chứ?
+
+204
+00:35:04,480 --> 00:35:07,640
+Cô chuyển từ hoạt động đặc biệt
+sang nghiên cứu công nghệ?
+
+205
+00:35:09,590 --> 00:35:13,890
+Chúa ơi, người của BSAA toàn có
+những kinh nghiệm kỳ lạ.
+
+206
+00:35:13,990 --> 00:35:16,460
+Dám chắc cô thông minh lắm mới làm nghề đó.
+
+207
+00:35:17,160 --> 00:35:19,630
+Vậy sao cô lại chuyển?
+
+208
+00:35:20,130 --> 00:35:21,970
+Có cả câu chuyện đằng sau.
+
+209
+00:35:23,070 --> 00:35:25,630
+Tôi từng là một quân y tại Đơn vị S.T.A.R.S...
+
+210
+00:35:25,730 --> 00:35:27,740
+...ở Thành phố Raccoon.
+
+211
+00:35:27,840 --> 00:35:31,370
+Tôi nghĩ mình luôn quan tâm đến
+khoa học y khoa theo một cách nào đó.
+
+212
+00:35:31,470 --> 00:35:35,480
+Rồi một ngày, tôi quyết định
+mình phải có nghĩa vụ ngăn mọi người lạm dụng nó.
+
+213
+00:35:36,580 --> 00:35:42,120
+<i>Tôi nghĩ: "Những tập đoàn này,
+bị lũ cặn bã điều hành, chúng lợi dụng những người yếu đuối."</i>
+
+214
+00:35:42,220 --> 00:35:45,020
+<i>Chúng như mầm bệnh của loài người vậy.</i>
+
+215
+00:35:45,120 --> 00:35:47,890
+<i>Tôi muốn tìm thuốc giải, giống Chris.</i>
+
+216
+00:35:47,990 --> 00:35:52,630
+<i>Điểm khác biệt là anh ấy dùng cơ bắp,
+còn tôi thì dùng trí não.</i>
+
+217
+00:35:52,730 --> 00:35:56,000
+Vậy là bộ não và trí óc
+đang hợp tác để cứu nhân loại.
+
+218
+00:35:56,100 --> 00:35:58,450
+Mọi người nghĩ cơ hội là bao nhiêu?
+
+219
+00:35:58,670 --> 00:36:00,610
+<i>Ý anh là sao, Damian?</i>
+
+220
+00:36:00,710 --> 00:36:04,740
+Không có gì, chỉ là tôi nghĩ
+sẽ sao nếu thứ mầm bệnh này không có thuốc chữa?
+
+221
+00:36:05,540 --> 00:36:09,080
+Tên khốn chúng ta đang theo đuổi,
+hắn coi cuộc sống và cái chết...
+
+222
+00:36:09,180 --> 00:36:10,910
+...như canh bạc vậy.
+
+223
+00:36:11,010 --> 00:36:12,740
+Không thể tồi tệ hơn.
+
+224
+00:36:12,920 --> 00:36:18,070
+Này, tôi vừa nhận ra D.C. và Damian không
+cùng nói về <i>Breaking Bad</i> trong cùng thời điểm.
+
+225
+00:36:18,170 --> 00:36:21,430
+- Này, đừng có vậy, Chris.
+- Này, xưa như diễm rồi.
+
+226
+00:36:21,530 --> 00:36:23,430
+Nó là kiệt tác đỉnh của đỉnh.
+
+227
+00:36:30,000 --> 00:36:40,000
+Phụ đề thực hiện bởi <b>World Subtitles </b>và <b>MeMi Media
+</b>Sử dụng sản phẩm phụ đề tốt nhất tại WorldSubTeam.com hoặc FB.com/MeMiMedia
+<b>- House of Entertainment -</b>
+
+228
+00:36:57,260 --> 00:36:59,500
+Cẩn thận không lại sợ dân địa phương đấy.
+
+229
+00:37:00,000 --> 00:37:02,030
+Lén lút làm cái gì chứ.
+
+230
+00:37:02,130 --> 00:37:05,130
+Còn quá sớm để say hơi men đấy, Leon.
+
+231
+00:37:07,270 --> 00:37:09,110
+Xem ai kìa.
+
+232
+00:37:09,210 --> 00:37:12,610
+Cậu bé vàng của BSAA và Tiến sĩ Hy Vọng Lớn.
+
+233
+00:37:13,210 --> 00:37:16,120
+- Hai người làm cái quái gì ở đây thế?
+- Tôi có việc đây.
+
+234
+00:37:16,220 --> 00:37:18,050
+Chúng tôi cần anh giúp.
+
+235
+00:37:19,620 --> 00:37:21,420
+Tôi đi nghỉ rồi.
+
+236
+00:37:23,050 --> 00:37:25,290
+Hãy nói về Los Iluminados.
+
+237
+00:37:26,260 --> 00:37:28,790
+Anh còn nhớ về loại B.O.W. họ dùng không?
+
+238
+00:37:29,390 --> 00:37:31,830
+Lâu lắm rồi, nhớ bằng niềm tin.
+
+239
+00:37:32,330 --> 00:37:35,800
+Vậy ra anh cứ thế mà ngồi đây
+ngày này qua năm khác và chẳng làm gì sao?
+
+240
+00:37:35,900 --> 00:37:38,300
+Tôi chưa từng lên kế hoạch xa vậy.
+
+241
+00:37:39,500 --> 00:37:43,070
+- Này, cho thêm chai nữa.
+- Thôi đi.
+
+242
+00:37:43,170 --> 00:37:46,380
+- Này, anh làm cái quái...
+- Đủ rồi! Được chưa?
+
+243
+00:37:47,640 --> 00:37:50,720
+Anh muốn gì, Redfield?
+
+244
+00:37:51,350 --> 00:37:53,790
+Anh muốn gì, Leon?
+
+245
+00:37:57,450 --> 00:38:00,300
+- Thôi ngay đi.
+- Các anh, bình tĩnh nào.
+
+246
+00:38:00,820 --> 00:38:04,590
+Leon... tôi xin lỗi vì làm gián đoạn kỳ nghỉ của anh...
+
+247
+00:38:04,690 --> 00:38:07,160
+...nhưng chúng tôi không ở đây
+nếu mọi chuyện không tệ.
+
+248
+00:38:07,260 --> 00:38:10,930
+Chúng tôi nghĩ có thể anh biết gì đó,
+và chúng tôi cần nó.
+
+249
+00:38:14,370 --> 00:38:16,170
+Biết gì?
+
+250
+00:38:30,390 --> 00:38:32,390
+<i>Đã xác nhận mục tiêu thứ hai.</i>
+
+251
+00:38:33,990 --> 00:38:36,060
+Để cô ta sống.
+
+252
+00:38:36,760 --> 00:38:38,490
+Còn lại thì cứ xử.
+
+253
+00:38:38,590 --> 00:38:40,230
+<i>Rõ.</i>
+
+254
+00:38:53,880 --> 00:38:55,910
+Nghe này, thứ tởm lợm này
+ ngày càng lây lan nhanh và dày.
+
+255
+00:38:56,010 --> 00:39:00,280
+Mọi nhà nghiên cứu và nhân viên
+ tại đại học của tôi đều bị nhiễm bệnh.
+
+256
+00:39:02,180 --> 00:39:04,020
+Lại vậy à?
+
+257
+00:39:04,420 --> 00:39:06,590
+Kiểu như tôi lại mắc vào một vòng lặp chết tiệt.
+
+258
+00:39:06,690 --> 00:39:08,960
+- Sao cơ?
+- Anh nói gì vậy?
+
+259
+00:39:10,060 --> 00:39:12,340
+Có biết quả bom đã nổ ở D.C. chứ?
+
+260
+00:39:13,030 --> 00:39:15,900
+Nhiệm vụ của tôi là ngăn chặn đám khủng bố.
+
+261
+00:39:16,930 --> 00:39:21,340
+Chúng tôi đã đến điểm hẹn của mình
+ và vài tên diệt chuột khốn nạn đã bắt chúng tôi ra ngoài.
+
+262
+00:39:23,270 --> 00:39:26,380
+<i>Quả bom nổ và mọi người ở Metro SWAT...</i>
+
+263
+00:39:26,480 --> 00:39:28,780
+<i>...bao gồm cả đội của tôi, đều đã mất.</i>
+
+264
+00:39:30,050 --> 00:39:33,720
+<i>Tôi tiếp tục chiến đấu, chiến đấu và chiến đấu.</i>
+
+265
+00:39:33,820 --> 00:39:37,490
+<i>Và thay vì tìm ra đường kết cho chuyện này,
+ tôi ngày càng trở nên tồi tệ.</i>
+
+266
+00:39:38,390 --> 00:39:40,660
+Cuộc đời tôi phải vậy sao?
+
+267
+00:39:42,110 --> 00:39:45,180
+Chiến đấu với xác sống
+ và lũ khốn nạn tạo ra chúng sao?
+
+268
+00:39:45,780 --> 00:39:47,550
+Tất cả có nghĩa lý gì chứ?
+
+269
+00:39:47,650 --> 00:39:49,060
+Nhìn này,
+
+270
+00:39:49,830 --> 00:39:52,400
+đây là Glenn Arias, một tay buôn vũ khí.
+
+271
+00:39:52,500 --> 00:39:54,670
+Việc buôn bán của hắn
+ tại chợ đen không minh bạch,
+
+272
+00:39:54,770 --> 00:39:57,340
+họ đã đặt hắn vào
+ danh sách cần trừ khử của chính phủ.
+
+273
+00:39:58,070 --> 00:40:00,380
+<i>Một quả bom thông minh 
+đã được ném xuống trong ngày cưới của hắn.</i>
+
+274
+00:40:00,480 --> 00:40:02,880
+<i>Hắn mất gia đình và mất vợ.</i>
+
+275
+00:40:02,980 --> 00:40:05,720
+<i>Và giờ thì hắn căm thù.</i>
+
+276
+00:40:05,820 --> 00:40:08,280
+<i>Sau cuộc tấn công, hắn ở ẩn...</i>
+
+277
+00:40:08,380 --> 00:40:12,460
+<i>...nhưng giờ hắn trở lại với B.O.W.
+và thanh toán máu.</i>
+
+278
+00:40:12,560 --> 00:40:16,760
+<i>Và rồi khơi mào, hắn nói 
+ sản phẩm của hắn có thể ngắm mục tiêu.</i>
+
+279
+00:40:18,090 --> 00:40:21,220
+<i>Từ những gì tôi thấy, tôi tin là thật.</i>
+
+280
+00:40:24,030 --> 00:40:26,370
+Vậy là một tên bán vũ khí một mình một bên,
+
+281
+00:40:26,470 --> 00:40:31,510
+bên còn lại là chính phủ
+ đã ném bom đám cưới hắn.
+
+282
+00:40:32,680 --> 00:40:34,540
+- Ở đây ai là kẻ xấu?
+- Arias!
+
+283
+00:40:34,640 --> 00:40:38,350
+- Và mục tiêu của chúng ta là hạ hắn!
+- Của anh, không phải của tôi!
+
+284
+00:40:38,450 --> 00:40:40,550
+- Anh điên à, Leon!
+- Thôi đi!
+
+285
+00:40:40,650 --> 00:40:43,160
+Leon. Với mọi chuyện đang xảy ra,
+
+286
+00:40:43,260 --> 00:40:46,090
+anh chỉ ngồi đây và 
+cảm thấy thương xót bản thân sao?
+
+287
+00:40:46,190 --> 00:40:50,060
+Còn anh, anh đang để mối hận thù
+ thao túng mình đó.
+
+288
+00:40:51,360 --> 00:40:55,160
+Chúa ơi... Tôi không thể nào
+ tin nổi hai anh lại vậy.
+
+289
+00:40:55,910 --> 00:40:56,930
+Chúng ta đang nói về gì đây?
+
+290
+00:40:57,030 --> 00:41:00,070
+Giờ hai anh đang thể hiện cả hai 
+là cặp đôi ích kỷ đấy.
+
+291
+00:41:17,390 --> 00:41:20,190
+Virus này nằm ngay trước mặt chúng ta.
+
+292
+00:41:20,290 --> 00:41:21,720
+Luôn là vậy.
+
+293
+00:41:23,560 --> 00:41:25,260
+Tôi không hiểu.
+
+294
+00:41:25,360 --> 00:41:29,800
+Chúng ta không cần tìm kiếm virus
+mà Arias lây nhiễm cho mọi người.
+
+295
+00:41:30,500 --> 00:41:34,340
+Loài virus này nằm im trong người chúng ta.
+
+296
+00:41:34,440 --> 00:41:36,310
+Thậm chí cả anh.
+
+297
+00:41:36,410 --> 00:41:38,840
+Những gì chúng ta cần tìm là cách kích hoạt.
+
+298
+00:41:39,340 --> 00:41:43,980
+Một cái gì đó kích hoạt virus tiềm năng 
+ mà chỉ Arias mới biết được.
+
+299
+00:41:44,380 --> 00:41:50,240
+Nhưng cho tới khi chúng ta tìm ra, mọi người,
+dù sống hay chết đều là vũ khí tiềm năng của hắn.
+
+300
+00:41:50,990 --> 00:41:54,620
+Nếu chúng ta không tìm ra giờ,
+ sẽ không còn những thị trấn nhỏ, kỳ lạ thế này...
+
+301
+00:41:54,720 --> 00:41:58,470
+...để anh say khướt quên buồn thế này đâu.
+
+302
+00:42:00,060 --> 00:42:04,480
+Tôi đã tạo ra vaccine,
+tôi tự thử nó và đã thành công.
+
+303
+00:42:04,770 --> 00:42:08,240
+Nhưng cho tới khi ta tìm ra
+cách Arias kích hoạt virus,
+
+304
+00:42:08,340 --> 00:42:11,340
+ai mà biết được nó đều hiệu quả với tất cả chứ.
+
+305
+00:42:13,110 --> 00:42:15,540
+Máu của tôi có câu trả lời.
+
+306
+00:42:17,100 --> 00:42:21,000
+Nếu tôi chết, hãy mang tới phòng thí nghiệm đáng tin.
+
+307
+00:42:25,590 --> 00:42:28,490
+Tôi không thể tưởng tượng được
+ hai người đã trải qua những gì.
+
+308
+00:42:28,590 --> 00:42:31,790
+Nhưng tôi biết rằng không một ai trong số các anh là loại người...
+
+309
+00:42:31,890 --> 00:42:34,900
+...cứ ngồi im tranh luận trong khi thế giới đang chết.
+
+310
+00:42:36,400 --> 00:42:38,230
+Không phải là vì hai anh là ai...
+
+311
+00:42:40,500 --> 00:42:42,340
+hay là cái gì.
+
+312
+00:43:02,120 --> 00:43:04,130
+Có vẻ mình không tốt lắm.
+
+313
+00:43:55,610 --> 00:43:56,850
+Leon!
+
+314
+00:43:58,010 --> 00:43:59,090
+Patricio!
+
+315
+00:43:59,190 --> 00:44:01,480
+- Khoan, khoan! Để tôi giải thích.
+- Leon!
+
+316
+00:44:01,580 --> 00:44:04,660
+Anh biết về gã tôi nói rồi đây,
+ gã đã bán đứng đơn vị của tôi.
+
+317
+00:44:04,760 --> 00:44:06,360
+Anh không hiểu đâu.
+
+318
+00:44:06,460 --> 00:44:09,530
+- Hắn là gã đó.
+- Xin hãy dừng lại.
+
+319
+00:44:10,030 --> 00:44:13,100
+- Này! Các anh định...
+- Sĩ quan đây, không có gì đâu.
+
+320
+00:44:13,200 --> 00:44:15,670
+- Leon, thôi nào!
+- Mày muốn gì?
+
+321
+00:44:15,970 --> 00:44:19,340
+Xin anh, anh là người duy nhất tôi biết từ DSO.
+
+322
+00:44:19,440 --> 00:44:22,590
+Đó là gia đình tôi, anh phải cứu họ.
+
+323
+00:44:22,690 --> 00:44:24,240
+Sao cơ?
+
+324
+00:44:25,240 --> 00:44:28,510
+Vợ và con gái tôi đang ở Tây Ban Nha.
+
+325
+00:44:28,610 --> 00:44:30,980
+Một gã buôn vũ khí ra giá...
+
+326
+00:44:31,080 --> 00:44:34,080
+...bằng mạng sống
+ của những thành viên Los Iluminados...
+
+327
+00:44:34,180 --> 00:44:37,940
+...để khởi động một cuộc
+ tấn công khủng bố sinh học quy mô lớn.
+
+328
+00:44:38,040 --> 00:44:41,290
+Tôi biết quá nhiều.
+ Chúng sẽ giết tôi và gia đình mình.
+
+329
+00:44:43,360 --> 00:44:46,130
+Anh nghe được những gì?
+ Hôm nay chúng ta may đấy.
+
+330
+00:44:46,230 --> 00:44:48,760
+"May mắn"? Anh điên à?
+
+331
+00:44:48,870 --> 00:44:52,060
+- Hắn sẽ dẫn ta đến với gã ta cần gặp.
+- Anh nói cái quái gì vậy?
+
+332
+00:44:52,160 --> 00:44:54,370
+Gã tên Glenn Arias đang khởi động à?
+
+333
+00:44:54,470 --> 00:44:57,510
+- Sao anh biết?
+- Tôi là ông đồng.
+
+334
+00:44:58,410 --> 00:45:01,080
+Tôi cần anh giúp! Gia đình tôi.
+
+335
+00:45:01,380 --> 00:45:03,210
+Để tao nói thẳng nhé.
+
+336
+00:45:03,310 --> 00:45:07,380
+Mày cố giết tao, và giờ tao phải cứu nhà mày sao?
+
+337
+00:45:08,280 --> 00:45:11,490
+Thế à?
+ Mày nói cho chúng tao mày biết gì trước...
+
+338
+00:45:11,590 --> 00:45:14,190
+...rồi tao sẽ suy nghĩ lại.
+
+339
+00:45:55,250 --> 00:45:57,140
+Thằng khốn.
+
+340
+00:45:57,900 --> 00:45:59,770
+Hắn bị theo dõi.
+
+341
+00:46:04,210 --> 00:46:05,940
+Đó là gia đình tôi.
+
+342
+00:46:06,040 --> 00:46:08,880
+Xin hãy cứu họ.
+
+343
+00:46:15,420 --> 00:46:17,120
+Đậu má.
+
+344
+00:46:24,490 --> 00:46:26,060
+Rebecca!
+
+345
+00:46:30,200 --> 00:46:33,270
+Mục tiêu thứ nhất đã hạ.
+ Mục tiêu thứ hai đã xác định.
+
+346
+00:46:48,120 --> 00:46:52,190
+D.C., chúng đã hạ bọn tôi
+ ở khách sạn và bắt Rebecca. Hãy theo dấu chúng.
+
+347
+00:46:52,660 --> 00:46:56,660
+- Tôi biết tên bực con này, hắn ở cùng Arias.
+- Arias muốn gì từ Rebecca?
+
+348
+00:46:57,160 --> 00:47:00,260
+Tôi không biết, tôi phải cứu cô ấy.
+
+349
+00:47:01,160 --> 00:47:04,370
+Kỳ nghỉ của tôi lại đi tong thêm lần nữa.
+
+350
+00:47:21,320 --> 00:47:23,790
+<i>Chào anh yêu, là em đây.</i>
+
+351
+00:47:23,890 --> 00:47:26,620
+<i>Có phải anh gặp một gã nói sẽ giúp được không?</i>
+
+352
+00:47:28,890 --> 00:47:32,700
+<i>Em sợ lắm. Selena nhớ bố nó.</i>
+
+353
+00:47:33,800 --> 00:47:36,170
+- <i>Patricio? Anh có đó không?</i>
+- <i>Con nói chuyện với bố yêu, được không?</i>
+
+354
+00:47:36,270 --> 00:47:40,870
+- <i>Patricio? Ai đó?</i>
+- <i>Mẹ? Con nói chuyện với bố nhé? Xin mẹ.</i>
+
+355
+00:47:40,970 --> 00:47:44,840
+<i>Patricio đâu?
+Đưa điện thoại cho chồng tôi ngay...</i>
+
+356
+00:47:48,140 --> 00:47:50,980
+Có lý do để hắn đưa cho anh trước khi chết.
+
+357
+00:47:51,710 --> 00:47:54,080
+Có lẽ có câu trả lời chúng ta cần rồi.
+
+358
+00:47:56,420 --> 00:47:58,420
+Chúng ta có laptop của Rebecca.
+
+359
+00:47:58,520 --> 00:48:00,390
+Chúng ta đã có hướng đi.
+
+360
+00:48:01,790 --> 00:48:05,060
+Nghe này, anh bạn, tôi cần anh.
+
+361
+00:49:24,340 --> 00:49:27,080
+Tôi đã thành công trong việc hồi tưởng lại họ, nhưng...
+
+362
+00:49:27,180 --> 00:49:30,810
+...tôi không tìm ra cách
+ ngăn cơ thể họ thối rữa...
+
+363
+00:49:31,410 --> 00:49:32,720
+...đi.
+
+364
+00:49:32,820 --> 00:49:34,820
+Càng tập luyện càng hoàn hảo.
+
+365
+00:49:36,120 --> 00:49:38,120
+Để tôi đoán.
+
+366
+00:49:38,220 --> 00:49:41,020
+Gia đình và một số người bạn thân nhất của tôi.
+
+367
+00:49:45,760 --> 00:49:48,160
+Giáo sư Rebecca Chambers.
+
+368
+00:49:48,660 --> 00:49:50,070
+Chào mừng.
+
+369
+00:49:51,630 --> 00:49:53,470
+Tôi là Glenn Arias.
+
+370
+00:49:54,870 --> 00:49:58,410
+Nghe nói cô tìm được thuốc giải
+ cho những món hàng của tôi.
+
+371
+00:50:01,740 --> 00:50:05,250
+Với một người còn trẻ, cô thật là quá đỉnh đấy.
+
+372
+00:50:07,720 --> 00:50:09,920
+Thuốc giải không chỉ là thứ duy nhất tôi tìm thấy.
+
+373
+00:50:10,420 --> 00:50:11,890
+Thật à?
+
+374
+00:50:13,090 --> 00:50:15,690
+Xin hãy nói tiếp.
+
+375
+00:50:17,490 --> 00:50:20,640
+Tôi tìm ra cách kích hoạt virus tiềm ẩn.
+
+376
+00:50:20,740 --> 00:50:24,630
+Animality Virus, Giáo sư.
+Gọi là A-Virus, cho ngắn.
+
+377
+00:50:27,200 --> 00:50:30,510
+ B.O.W. của ông có thể nói
+ ai là người mà chúng cần tấn công.
+
+378
+00:50:30,610 --> 00:50:33,240
+Điểm cộng cho vũ khí đó.
+
+379
+00:50:33,740 --> 00:50:37,110
+Kỹ thuật hóa việc đó hẳn phải gây khó khăn cho ông.
+
+380
+00:50:37,210 --> 00:50:39,250
+Nhưng tôi biết ông làm cách nào.
+
+381
+00:50:39,750 --> 00:50:42,190
+Có ba dòng virus.
+
+382
+00:50:43,240 --> 00:50:45,700
+Một lây nhiễm họ.
+
+383
+00:50:46,050 --> 00:50:48,660
+Hai là đóng vai trò kích hoạt. 
+
+384
+00:50:49,360 --> 00:50:53,530
+Thứ ba giúp ông điều khiển
+ xác định mục tiêu.
+
+385
+00:50:54,330 --> 00:50:57,170
+<i>Một loại virus không thể hoạt động.</i>
+
+386
+00:50:57,770 --> 00:50:59,600
+<i>Vaccine...</i>
+
+387
+00:51:02,570 --> 00:51:04,410
+Bật lại bản đồ đi.
+
+388
+00:51:06,410 --> 00:51:09,020
+Chắc chắn cô ấy nghĩ những vụ bùng phát này
+ là có liên quan.
+
+389
+00:51:09,120 --> 00:51:11,610
+Xem chúng tập trung quanh Great Lakes thế nào kìa?
+
+390
+00:51:11,710 --> 00:51:16,020
+Nếu những điều cô ấy nói là đúng
+ và những thứ này nằm sâu trong mỗi người...
+
+391
+00:51:17,320 --> 00:51:19,560
+...chỉ có Chúa mới biết bao nhiêu người bị nhiễm.
+
+392
+00:51:22,060 --> 00:51:24,610
+<i>Ông trộng virus vào nguồn nước uống.</i>
+
+393
+00:51:24,960 --> 00:51:26,930
+Tôi bị ấn tượng đấy.
+
+394
+00:51:27,030 --> 00:51:29,060
+Sao cô phát hiện ra được?
+
+395
+00:51:29,860 --> 00:51:33,240
+Tôi nhận thấy sự bùng phát lớn ở Great Lakes.
+
+396
+00:51:33,740 --> 00:51:37,610
+<i>Đó là nguồn nước uống lớn.</i>
+
+397
+00:51:38,220 --> 00:51:41,890
+Nhưng chúng không phải kế hoạch của ông.
+ Chúng vô tình xảy ra.
+
+398
+00:51:42,410 --> 00:51:44,580
+<i>Có vẻ như trong một số điều kiện nhất định...</i>
+
+399
+00:51:44,680 --> 00:51:48,550
+<i>...virus tiềm năng không bị kích hoạt bởi virus mở.</i>
+
+400
+00:51:49,350 --> 00:51:53,520
+Nói khác thì, virus mở có thể
+ lan truyền qua không khí...
+
+401
+00:51:54,760 --> 00:51:56,610
+<i>...bằng khí gas.</i>
+
+402
+00:51:57,260 --> 00:52:00,500
+Tự bản thân chúng thì những virus này không có hiệu lực...
+
+403
+00:52:00,600 --> 00:52:03,000
+...hoặc có nguy cơ tự kích hoạt.
+
+404
+00:52:03,300 --> 00:52:06,730
+Nhưng khi kích hoạt, chúng trở nên hiệu quả...
+
+405
+00:52:06,830 --> 00:52:09,890
+...trong việc kiểm soát vũ khí sinh học.
+
+406
+00:52:10,420 --> 00:52:12,460
+Khá lắm, Giáo sư.
+
+407
+00:52:13,410 --> 00:52:16,230
+Việc cô sống sót khỏi Thành phố Raccoon không lạ.
+
+408
+00:52:19,050 --> 00:52:23,850
+Nếu kích hoạt qua không khí,
+ khó kiểm soát được nơi nó đi và những người bị nhiễm.
+
+409
+00:52:25,290 --> 00:52:28,890
+Bởi vậy nên Arias đã sử dụng một số loại vaccine.
+
+410
+00:52:30,690 --> 00:52:32,990
+Đó là cách hắn kiểm soát sự lây lan ổ dịch.
+
+411
+00:52:33,090 --> 00:52:36,130
+hắn chủng ngừa cho bất cứ ai hắn không muốn lây nhiễm.
+
+412
+00:52:36,230 --> 00:52:39,230
+Để khiến vũ khí chính xác hơn, đúng chứ?
+
+413
+00:52:46,910 --> 00:52:49,380
+Cô đã làm rất tốt về A-Virus.
+
+414
+00:52:50,710 --> 00:52:52,910
+Vậy tiếp theo là gì đây?
+
+415
+00:52:54,120 --> 00:52:56,990
+Không khó để tôi thiết kế phương pháp thử nghiệm.
+
+416
+00:52:57,090 --> 00:53:01,560
+Tôi biết cách nó hoạt động,
+ đội của tôi đã nghiên cứu máu của tôi.
+
+417
+00:53:02,260 --> 00:53:04,660
+"Món hàng" của ông, như cách ông vẫn gọi...
+
+418
+00:53:04,760 --> 00:53:07,560
+...sẽ sớm lỗi thời trên thị trường.
+
+419
+00:53:08,860 --> 00:53:13,130
+Tôi ghét phải nói vậy
+ nhưng nghiên cứu của cô chưa hoàn thành đâu.
+
+420
+00:53:14,500 --> 00:53:18,310
+Nếu cô tìm ra cách chữa,
+ cô đã không bị tấn công sau khi tiêm nó.
+
+421
+00:53:19,880 --> 00:53:22,340
+Nhưng cô vẫn bị, phải chứ?
+
+422
+00:53:24,250 --> 00:53:26,050
+Không thành vấn đề,
+
+423
+00:53:26,950 --> 00:53:30,420
+Không, cô và vaccine của cô
+ sẽ sớm lỗi thời.
+
+424
+00:53:31,720 --> 00:53:34,720
+Ngày mai, Thế giới sẽ là
+ một nơi rất kahcs.
+
+425
+00:53:38,830 --> 00:53:40,860
+Arias đang lên một kế hoạch lớn.
+
+426
+00:53:41,510 --> 00:53:43,460
+Patricio biết quá nhiều về nó.
+
+427
+00:53:44,570 --> 00:53:46,800
+Đó là lý do hắn phải chết.
+
+428
+00:53:54,540 --> 00:53:56,420
+Tôi biết chuyện gì xảy ra.
+
+429
+00:53:56,980 --> 00:53:59,110
+Họ tới để giết ông...
+
+430
+00:53:59,210 --> 00:54:02,080
+...nhưng lại giết mọi người ông yêu, thay vì ông.
+
+431
+00:54:03,790 --> 00:54:05,790
+Đó là ngày cưới của ông.
+
+432
+00:54:09,520 --> 00:54:11,790
+Thời gian đã vô nghĩa với tôi.
+
+433
+00:54:22,640 --> 00:54:24,460
+Đó là Sara...
+
+434
+00:54:25,540 --> 00:54:27,430
+...vợ tôi.
+
+435
+00:54:32,650 --> 00:54:35,250
+Cô giống cô ấy lắm.
+
+436
+00:54:41,020 --> 00:54:43,460
+Việc ta gặp nhau không phải trùng hợp.
+
+437
+00:54:45,330 --> 00:54:47,130
+Đó là định mệnh.
+
+438
+00:54:49,400 --> 00:54:50,870
+Khoan đã.
+
+439
+00:54:57,770 --> 00:54:59,840
+Ông định làm gì vậy?
+
+440
+00:55:08,320 --> 00:55:10,390
+Làm lại lễ cưới.
+
+441
+00:55:14,720 --> 00:55:17,830
+Lần này... là với cô.
+
+442
+00:55:21,300 --> 00:55:23,160
+Tôi sẽ viết lại lịch sử.
+
+443
+00:55:30,040 --> 00:55:31,530
+Rebecca...
+
+444
+00:55:33,470 --> 00:55:35,460
+...hãy gặp Sara.
+
+445
+00:55:43,920 --> 00:55:45,990
+Chúng ta sẽ hạnh phúc lắm đấy.
+
+446
+00:56:11,210 --> 00:56:13,050
+Mà nghĩ lại thì...
+
+447
+00:56:16,420 --> 00:56:21,220
+...tôi sẽ thay tay cô bằng tay của Sara.
+
+448
+00:56:24,390 --> 00:56:26,960
+Có lẽ điều đó sẽ thay đổi suy nghĩ của cô về tôi.
+
+449
+00:56:35,140 --> 00:56:37,810
+Hắn sẽ dùng virus kích hoạt ở New York?
+
+450
+00:56:37,910 --> 00:56:41,380
+- Có vẻ vậy.
+- Hắn điên rồi.
+
+451
+00:56:43,750 --> 00:56:46,410
+"Nếu không kiểm soát được vụ bạo động,
+
+452
+00:56:46,510 --> 00:56:50,420
+thùng được dán nhãn A màu xanh
+ đã chứa vaccine sẵn sàng phát tán.
+
+453
+00:56:50,850 --> 00:56:52,650
+Phân loại theo địa điểm."
+
+454
+00:56:55,360 --> 00:56:58,760
+Tất cả những gì chúng ta cần làm là tìm ra thứ đó
+ và biến đổi mọi người lại.
+
+455
+00:56:59,290 --> 00:57:01,330
+Giống như bật công tắc an toàn ấy.
+
+456
+00:57:02,280 --> 00:57:05,880
+Nhưng nếu anh là Arias,
+anh sẽ giữ nó ở đâu?
+
+457
+00:57:06,330 --> 00:57:10,140
+Nơi nào đó lây lan nhanh,
+ một nơi an toàn.
+
+458
+00:57:11,970 --> 00:57:13,980
+Nơi trú ẩn của hắn ở New York.
+
+459
+00:57:16,040 --> 00:57:18,310
+Tôi cá là sẽ tìm được Rebecca cũng ở đó.
+
+460
+00:57:24,320 --> 00:57:27,960
+- Chúng ta cần phát tán gấp.
+- <i>Chúng tôi đã đặt vào giờ cao điểm.</i>
+
+461
+00:57:28,060 --> 00:57:32,490
+Tôi có cảm giác BSAA đang hướng tới chúng ta,
+nên tôi nghĩ ta cần giải pháp.
+
+462
+00:57:34,260 --> 00:57:36,500
+Ông đã lên một kế hoạch khác.
+
+463
+00:57:37,100 --> 00:57:39,100
+Tôi lên kế hoạch cho tương lai của chúng ta.
+
+464
+00:57:39,500 --> 00:57:41,970
+Thời của chúng ta đã bắt đầu.
+
+465
+00:57:42,840 --> 00:57:45,310
+- "Chúng ta"?
+- Phải.
+
+466
+00:57:47,610 --> 00:57:50,080
+Với những người bạn cuối cùng của tôi,
+
+467
+00:57:50,480 --> 00:57:53,350
+chúng ta sẽ sống một cuộc đời mới cùng nhau.
+
+468
+00:58:06,860 --> 00:58:08,730
+Tới lúc rồi.
+
+469
+00:58:09,900 --> 00:58:11,300
+Bố...
+
+470
+00:58:28,650 --> 00:58:30,850
+...chúc con may mắn đi.
+
+471
+01:00:29,000 --> 01:00:30,540
+Chúa ơi.
+
+472
+01:00:30,640 --> 01:00:32,910
+Alex! Alex!
+
+473
+01:00:33,910 --> 01:00:35,740
+Em sẽ gọi cứu thương.
+
+474
+01:00:38,280 --> 01:00:40,280
+Không phải chứ, mẹ nó.
+
+475
+01:01:41,240 --> 01:01:43,910
+Mọi người đều có vaccine của Rebecca rồi chứ?
+
+476
+01:01:45,380 --> 01:01:46,820
+Good.
+
+477
+01:01:47,320 --> 01:01:49,350
+Quân tiếp viện sao rồi?
+
+478
+01:01:50,490 --> 01:01:53,760
+BSAA và N.Y.P.D. SWAT
+đang dàn quân khắp mặt đất rồi.
+
+479
+01:01:53,860 --> 01:01:57,130
+Cảnh sát nhà nước sẽ không tới đó
+ trong vòng ba tiếng nữa.
+
+480
+01:01:57,230 --> 01:02:00,290
+Thế có nghĩa là ta phải tự bắt Arias thôi.
+
+481
+01:02:00,390 --> 01:02:01,960
+Tuyệt thật.
+
+482
+01:02:02,160 --> 01:02:05,030
+Này! Tín hiệu tồi quá.
+
+483
+01:02:09,440 --> 01:02:12,010
+Chúng dùng xe tải dầu để phun virus.
+
+484
+01:02:12,110 --> 01:02:14,540
+Hắn không chỉ cố biến đổi đôi nghìn người.
+
+485
+01:02:14,940 --> 01:02:16,710
+Hắn cố biến đổi tất cả.
+
+486
+01:02:16,810 --> 01:02:19,080
+Chúng ta cần chiếm chiếc xe đó.
+
+487
+01:02:19,680 --> 01:02:22,480
+Nghiên cứu của Giáo sư Chambers nói
+ virus không thể xử lý nhiệt.
+
+488
+01:02:22,580 --> 01:02:25,240
+Nó có điểm cháy giống như xăng.
+
+489
+01:02:25,340 --> 01:02:29,190
+Tuyệt vời. Thiêu đốt nó nào.
+
+490
+01:02:30,290 --> 01:02:34,230
+Tôi muốn chúng ta cứu Rebecca trước,
+nhưng ưu tiên là xe dầu.
+
+491
+01:02:34,330 --> 01:02:38,130
+Được rồi, vậy là cần làm ba việc.
+ Một là cho nổ xe tải.
+
+492
+01:02:38,230 --> 01:02:42,690
+Hai, cứu Rebecca. Ba, lấy được vaccine
+ và lan khắp thành phố.
+
+493
+01:02:42,790 --> 01:02:46,360
+- Và bắt Arias. Bốn.
+- Sao cũng được, thưa sếp.
+
+494
+01:02:46,510 --> 01:02:49,940
+D.C., Nadia, hai người làm ở Osprey.
+
+495
+01:02:50,040 --> 01:02:51,910
+Roger tới đây, C.
+
+496
+01:03:04,990 --> 01:03:07,360
+Quà từ BSAA.
+
+497
+01:03:07,460 --> 01:03:10,500
+Họ nói đó là điều tốt nhất
+ có thể làm cho chúng ta bây giờ.
+
+498
+01:03:17,270 --> 01:03:19,070
+Chiến thôi nào.
+
+499
+01:03:25,550 --> 01:03:28,380
+<i>Khi xe dầu bị hạ, hẹn gặp mọi người tại nơi ở của Arias.</i>
+
+500
+01:03:28,480 --> 01:03:31,030
+<i>Tùy vào tình huống, chúng ta phải giữ Rebecca lại...</i>
+
+501
+01:03:31,130 --> 01:03:33,990
+- <i>...cho tới khi tìm được vaccine.</i>
+- Hiểu rồi.
+
+502
+01:04:06,090 --> 01:04:08,560
+Sẵn sàng chiến chưa?
+
+503
+01:04:08,860 --> 01:04:10,690
+Anh đùa à?
+
+504
+01:04:11,190 --> 01:04:12,990
+Chiến thôi.
+
+505
+01:05:08,520 --> 01:05:11,040
+Damian! Đệch.
+
+506
+01:05:14,260 --> 01:05:15,930
+Đậu má.
+
+507
+01:05:16,490 --> 01:05:18,130
+Có ý gì không?
+
+508
+01:05:21,660 --> 01:05:24,970
+Tôi sẽ dụ lũ chó.
+ Anh đi thổi bay xe dầu đi.
+
+509
+01:05:25,070 --> 01:05:27,900
+- Vậy nhé?
+- Được.
+
+510
+01:05:28,300 --> 01:05:31,370
+Này, nhóc, tới đi.
+
+511
+01:07:18,550 --> 01:07:21,620
+Đây là phiên bản virus kích hoạt tốt hơn bản gần nhất.
+
+512
+01:07:21,720 --> 01:07:24,720
+Mạnh hơn, máu của cô là chìa khóa.
+
+513
+01:07:25,320 --> 01:07:27,120
+Cảm ơn nhiều lắm.
+
+514
+01:07:31,360 --> 01:07:32,400
+Thật không may,
+
+515
+01:07:32,500 --> 01:07:36,760
+tăng độc tính nghĩa là
+ không thể quản lý thông qua khí gas nữa.
+
+516
+01:07:37,160 --> 01:07:40,200
+Thế tức là công cốc hết, tôi sợ quá.
+
+517
+01:07:40,600 --> 01:07:42,440
+Lỗi của tôi.
+
+518
+01:07:44,270 --> 01:07:46,820
+Nếu đúng theo tính toán của chúng ta đúng,
+
+519
+01:07:46,920 --> 01:07:49,940
+sẽ có hiệu nghiệm trong nữa giờ nữa.
+
+520
+01:08:27,980 --> 01:08:30,620
+Xong cái thứ ba. Làm tiếp thôi.
+
+521
+01:09:57,140 --> 01:10:01,110
+<i>Rất vui được gặp lại, anh Redfield.</i>
+
+522
+01:10:01,210 --> 01:10:02,740
+Arias.
+
+523
+01:10:03,880 --> 01:10:08,080
+<i>Nhờ Giáo sư Chambers,
+chúng tôi đã khiến virus mạnh hơn.</i>
+
+524
+01:10:08,780 --> 01:10:11,960
+<i>Nếu anh trụ được...
+thêm 20 phút nữa...</i>
+
+525
+01:10:12,060 --> 01:10:14,110
+<i>... anh sẽ thấy nó mạnh cỡ nào.</i>
+
+526
+01:10:14,690 --> 01:10:18,490
+<i>Tôi không thể đợi được lúc anh gặp
+ Rebecca hoàn toàn mới đó.</i>
+
+527
+01:10:19,090 --> 01:10:20,780
+<i>Câu hỏi là...</i>
+
+528
+01:10:21,330 --> 01:10:23,930
+<i>...anh có giết cô ấy không?</i>
+
+529
+01:10:27,870 --> 01:10:32,210
+<i>Quân đội xác sống của tôi sẽ khiến Thế giới tuyệt hơn.</i>
+
+530
+01:10:32,310 --> 01:10:36,040
+Nó sẽ khắc phục sự mất cân bằng
+ do các cuộc chiến gần đây gây ra.
+
+531
+01:10:36,340 --> 01:10:40,050
+Có lẽ nếu anh sống đủ lâu,
+ anh có thể thấy tôi với tư cách B.O.W. của tôi...
+
+532
+01:10:40,150 --> 01:10:42,750
+...hạ những quốc gia mạnh nhất...
+
+533
+01:10:42,850 --> 01:10:46,330
+...từng chút một.
+
+534
+01:10:47,190 --> 01:10:49,360
+Mày thuộc về nhà thương điên, thằng khốn.
+
+535
+01:10:50,930 --> 01:10:53,190
+Tiếc là, tôi không điên.
+
+536
+01:10:54,400 --> 01:10:56,650
+Tôi muốn trả thù.
+
+537
+01:11:09,710 --> 01:11:13,150
+<i>Tôi nhấn nút đặt lại cho Thế giới.</i>
+
+538
+01:11:13,250 --> 01:11:16,480
+<i>Và những món hàng của tôi, những B.O.W. của tôi...</i>
+
+539
+01:11:16,980 --> 01:11:19,620
+<i>...là công cụ hiệu nghiệm cho việc này.</i>
+
+540
+01:12:48,080 --> 01:12:49,980
+- Leon.
+- Xin lỗi vì tới muộn.
+
+541
+01:12:50,080 --> 01:12:51,910
+Tôi phải leo cầu thang bộ.
+
+542
+01:14:07,760 --> 01:14:10,420
+Đây có lẽ là điều mình luôn mong muốn.
+
+543
+01:14:12,590 --> 01:14:14,840
+Một Thế giới trong ngọn lửa...
+
+544
+01:14:16,030 --> 01:14:18,300
+...nơi chỉ có xác sống tồn tại.
+
+545
+01:14:50,350 --> 01:14:53,600
+- Rebecca đang dần hết thời gian.
+- Vậy hãy tách ra.
+
+546
+01:15:39,450 --> 01:15:40,880
+Rebecca.
+
+547
+01:16:37,070 --> 01:16:38,910
+Cô ổn chứ?
+
+548
+01:16:40,010 --> 01:16:41,180
+Chris.
+
+549
+01:16:46,750 --> 01:16:49,160
+Không, không, không, khoan đã.
+
+550
+01:16:49,260 --> 01:16:51,230
+Vaccine ở đâu?
+
+551
+01:16:51,690 --> 01:16:53,720
+Nói cho tao nghe!
+
+552
+01:17:01,900 --> 01:17:04,100
+Anh vừa cố để cứu cô ấy.
+
+553
+01:17:04,200 --> 01:17:07,700
+Anh dễ bị đoán trước, Chris.
+Đó là điểm yếu của anh.
+
+554
+01:17:18,080 --> 01:17:19,580
+Đậu má.
+
+555
+01:20:06,680 --> 01:20:08,250
+Rebecca.
+
+556
+01:20:14,050 --> 01:20:17,320
+- Anh phải giết tôi.
+- Không.
+
+557
+01:20:17,420 --> 01:20:19,330
+Chúng ta sẽ tìm ra vaccine.
+
+558
+01:20:19,430 --> 01:20:21,430
+Đợi chút nữa thôi.
+
+559
+01:20:50,390 --> 01:20:51,930
+Diego...
+
+560
+01:20:52,230 --> 01:20:54,230
+...giai đoạn cuối cùng,
+
+561
+01:20:56,100 --> 01:20:57,930
+Giải phóng nó đi.
+
+562
+01:22:03,930 --> 01:22:05,830
+Redfield!
+
+563
+01:24:37,920 --> 01:24:39,780
+Tìm thấy rồi.
+
+564
+01:25:00,670 --> 01:25:05,140
+Tao sẽ moi ruột mày ra.
+
+565
+01:25:17,620 --> 01:25:19,060
+Nadia!
+
+566
+01:25:40,950 --> 01:25:42,820
+Diego!
+
+567
+01:25:56,460 --> 01:25:58,000
+Đậu má.
+
+568
+01:26:46,850 --> 01:26:48,310
+Đây rồi.
+
+569
+01:27:18,140 --> 01:27:20,410
+Tạm biệt, thằng khốn.
+
+570
+01:28:37,820 --> 01:28:39,310
+Rebecca?
+
+571
+01:29:18,800 --> 01:29:20,800
+Còn điều nữa cần phải làm
+
+572
+01:29:22,240 --> 01:29:24,080
+Làm thôi nào.
+
+573
+01:30:43,220 --> 01:30:44,840
+<i>Khi tôi còn nhỏ...</i>
+
+574
+01:30:46,120 --> 01:30:49,190
+<i>...tôi chưa từng nghĩ cuộc đời mình lệch hướng như vậy.</i>
+
+575
+01:30:51,920 --> 01:30:55,730
+Và một lần nữa, chúng ta lại thấy mình trở về nơi bắt đầu.
+
+576
+01:30:58,000 --> 01:30:59,870
+Thế nghĩa là sao?
+
+577
+01:31:00,370 --> 01:31:02,470
+Chúng ta đã bắt những gã xấu rồi.
+
+578
+01:31:02,570 --> 01:31:05,040
+Hy vọng chúng ta sẽ khiến Thế giới tốt đẹp hơn chút.
+
+579
+01:31:10,910 --> 01:31:13,810
+- Này, Chris.
+- Hả?
+
+580
+01:31:14,210 --> 01:31:17,080
+Chúng ta có thể tiếp tục như thế này được bao lâu nữa?
+
+581
+01:31:18,420 --> 01:31:20,280
+Bó tay.
+
+582
+01:31:22,660 --> 01:31:24,860
+Tôi chưa từng lên kế hoạch cho tương lai.
+
+583
+01:31:30,860 --> 01:31:50,860
+Phụ đề thực hiện bởi <b>World Subtitles </b>và <b>MeMi Media
+</b>Sử dụng sản phẩm phụ đề tốt nhất tại WorldSubTeam.com hoặc FB.com/MeMiMedia
+<b>- House of Entertainment -</b>
+
