@@ -1,0 +1,4073 @@
+﻿1
+00:00:00,000 --> 00:00:00,033
+
+
+2
+00:00:00,910 --> 00:00:13,910
+
+
+3
+00:00:04,230 --> 00:00:08,400
+26 Maret 2096   Pulau Perusahaan Ogasawara   Minami Tateshima
+
+4
+00:00:23,730 --> 00:00:25,860
+Teleskop 'Lagrange' Angkasa 2.
+
+5
+00:00:26,020 --> 00:00:28,240
+Penghubungan 'data link' selesai.
+
+6
+00:00:28,560 --> 00:00:29,670
+Mengkonfirmasi subyek...
+
+7
+00:00:30,220 --> 00:00:32,090
+...telah dipastikan aman.
+
+8
+00:00:35,240 --> 00:00:37,160
+Mengkonfirmasi tanda vital stabil.
+
+9
+00:00:40,260 --> 00:00:42,170
+Semua format normal.
+
+10
+00:00:42,400 --> 00:00:44,230
+Pembacaan subyek tes selesai.
+
+11
+00:00:44,540 --> 00:00:46,360
+Pembacaan subyek tes selesai.
+
+12
+00:00:46,530 --> 00:00:48,580
+Ativitas gelombang psion di atas normal.
+
+13
+00:00:49,040 --> 00:00:52,460
+Semua pembacaan vital dalam jangkauan aman.
+
+14
+00:00:53,330 --> 00:00:56,920
+Gelombang psion 'Watatsumi series'... mulai.
+
+15
+00:01:05,890 --> 00:01:07,820
+Gelombang psion dalam level normal...
+
+16
+00:01:08,000 --> 00:01:10,090
+3, 4, 5...
+
+17
+00:01:10,220 --> 00:01:11,780
+Mencapai level yang di butuhkan.
+
+18
+00:01:13,330 --> 00:01:15,730
+Mempersiapkan pengaktifan.
+
+19
+00:01:24,530 --> 00:01:26,730
+Mulai proses pengaktifan.
+
+20
+00:01:44,680 --> 00:01:47,180
+Pembacaan kode aktivasi, berjalan normal.
+
+21
+00:01:50,930 --> 00:01:53,600
+Pembacaan kode aktivasi selesai 90%.
+
+22
+00:01:55,780 --> 00:01:57,740
+Melepas seluruh pembatas keamanan.
+
+23
+00:01:58,620 --> 00:02:01,060
+'Meteorite Fall', diaktifkan.
+
+24
+00:02:01,880 --> 00:02:03,600
+Pembatas keamanan di lepas...
+
+25
+00:02:03,760 --> 00:02:05,450
+Sukses melanjutkan proses aktivasi.
+
+26
+00:02:05,820 --> 00:02:08,160
+'Meteorite Fall', diaktifkan!
+
+27
+00:03:02,570 --> 00:03:05,110
+Itulah peninggalan zaman perang...
+
+28
+00:03:08,360 --> 00:03:12,480
+Sudah seabad sejak sihir menjadi teknologi moderen.
+
+29
+00:03:13,240 --> 00:03:17,330
+Sihir sendiri telah di kembangkan negara sebagai senjata,
+
+30
+00:03:17,600 --> 00:03:19,400
+dan menjadi bagian dari kekuatan.
+
+31
+00:03:23,110 --> 00:03:26,260
+Diantaranya, menghancurkan
+kota dengan satu serangan.
+
+32
+00:03:26,410 --> 00:03:31,020
+Militer yang menggunakan sihir
+di sebut Penyihir Kelas-Strategi.
+
+33
+00:03:31,920 --> 00:03:36,680
+Menjadi simbol yang mempengaruh seluruh dunia.
+
+34
+00:04:00,170 --> 00:04:01,130
+27 Maret   Bandara Internasional Albuquerque  New Mexico, Amerika.
+
+35
+00:04:01,130 --> 00:04:01,260
+27 Maret   Bandara Internasional Albuquerque  New Mexico, Amerika.
+
+36
+00:04:01,260 --> 00:04:01,260
+27 Maret   Bandara Internasional Albuquerque  New Mexico, Amerika.
+
+37
+00:04:01,260 --> 00:04:01,380
+27 Maret   Bandara Internasional Albuquerque  New Mexico, Amerika.
+
+38
+00:04:01,380 --> 00:04:04,340
+27 Maret   Bandara Internasional Albuquerque  New Mexico, Amerika.
+
+39
+00:04:26,690 --> 00:04:27,880
+Silvi!
+
+40
+00:04:30,310 --> 00:04:32,290
+Datang untuk menjemput?
+
+41
+00:04:33,460 --> 00:04:35,420
+Selamat datang kembali, Letkot-dono.
+
+42
+00:04:36,020 --> 00:04:39,690
+Sekarang tidak sedang bertuga, jadi cukup Lina saja.
+
+43
+00:04:39,860 --> 00:04:42,840
+Lihat, aku bawakan banyak oleh-oleh.
+
+44
+00:04:45,150 --> 00:04:46,370
+Ya, ini.
+
+45
+00:04:46,710 --> 00:04:48,930
+Tidak, sebenarnya...
+
+46
+00:04:51,730 --> 00:04:54,460
+Perintah baru dari markas pusat, Letkol-dono.
+
+47
+00:04:54,900 --> 00:04:56,700
+Silahkan menuju Honolulu.
+
+48
+00:04:59,200 --> 00:05:01,810
+Aku baru saja kembali lo!
+
+49
+00:05:03,770 --> 00:05:05,640
+Sebenarnya misi apa?
+
+50
+00:05:05,820 --> 00:05:09,460
+Entahlah, detilnya silahkan
+ditanyakan ke komandan disana.
+
+51
+00:05:09,460 --> 00:05:10,970
+Setidaknya tolong biarkan beristirahat!
+
+52
+00:05:10,970 --> 00:05:13,780
+Saya rasa di Honolulu bisa istirahat sejenak.
+
+53
+00:05:13,860 --> 00:05:15,850
+Bukannya itu belum tahu?
+
+54
+00:05:16,280 --> 00:05:16,920
+Sebentar...
+
+55
+00:05:18,760 --> 00:05:20,210
+Maaf, Lina.
+
+56
+00:05:21,040 --> 00:05:22,100
+Silvi?
+
+57
+00:05:24,620 --> 00:05:27,680
+Silvi! Tunggu, sebentar!
+
+58
+00:05:29,610 --> 00:05:30,890
+Selamat jalan!
+
+59
+00:05:31,680 --> 00:05:33,660
+Terima kasih banyak oleh-olehnya!
+
+60
+00:05:35,460 --> 00:05:36,600
+Silvi...
+
+61
+00:05:36,960 --> 00:05:40,930
+Jahat....
+
+62
+00:05:44,490 --> 00:05:45,440
+28 Maret   Pulau Perusahaan Ogasawara    Pulau Nadokojima
+
+63
+00:05:45,440 --> 00:05:45,700
+28 Maret   Pulau Perusahaan Ogasawara    Pulau Nadokojima
+
+64
+00:05:45,700 --> 00:05:50,280
+28 Maret   Pulau Perusahaan Ogasawara    Pulau Nadokojima
+
+65
+00:06:09,510 --> 00:06:11,640
+Enak ya, kakanda?
+
+66
+00:06:13,600 --> 00:06:14,480
+Disana!
+
+67
+00:06:21,600 --> 00:06:23,950
+Erika, kenapa berbohong?
+
+68
+00:06:24,020 --> 00:06:25,810
+Bukannya itu cara bermain?!
+
+69
+00:06:25,920 --> 00:06:29,280
+Tetapi, apa artinya memukul
+semangka dengan alat pemukul?
+
+70
+00:06:29,330 --> 00:06:30,380
+Tradisi.
+
+71
+00:06:40,660 --> 00:06:41,820
+Kakanda...
+
+72
+00:06:43,860 --> 00:06:47,090
+Begini, bagaimana?
+
+73
+00:06:47,200 --> 00:06:50,930
+Itu... tentang baju renangku yang baru...
+
+74
+00:06:49,160 --> 00:07:20,160
+animeshiba
+
+75
+00:06:51,330 --> 00:06:55,960
+Kami memilih bersama saat belanja
+bersama kakanda tempo hari...
+
+76
+00:06:57,050 --> 00:06:58,430
+Bagaimana?
+
+77
+00:07:00,330 --> 00:07:01,490
+Apa yang kau lakukan—
+
+78
+00:07:13,860 --> 00:07:16,040
+Sangat cocok.
+
+79
+00:07:16,760 --> 00:07:18,250
+Seperti dugaanku.
+
+80
+00:07:19,940 --> 00:07:22,260
+Terima kasih banyak, kakanda.
+
+81
+00:07:23,860 --> 00:07:25,200
+Shizuku-ojousama.
+
+82
+00:07:25,330 --> 00:07:27,530
+Hidangan penutup untuk anda berdua sudah siap.
+
+83
+00:07:27,850 --> 00:07:29,550
+Terima kasih, Kurosawa-san.
+
+84
+00:07:29,930 --> 00:07:31,020
+Ayo Honoka.
+
+85
+00:07:33,640 --> 00:07:36,750
+Permainan semangka itu sangat menyenangkan lo.
+
+86
+00:07:37,080 --> 00:07:38,860
+Erika memotongnya dengan sempurna.
+
+87
+00:07:39,250 --> 00:07:40,600
+Memotong?
+
+88
+00:07:40,880 --> 00:07:43,280
+Bukan Mizuki yang melakukannya?
+
+89
+00:07:44,960 --> 00:07:47,770
+Enak, enak lo Shizuku.
+
+90
+00:07:47,860 --> 00:07:50,930
+Benarkan? Ini keahlian Kurosawa-san.
+
+91
+00:07:50,980 --> 00:07:52,440
+Banyak buah-buahan di dalamnya.
+
+92
+00:07:52,440 --> 00:07:54,440
+Suasananya terasa menenangkan ya.
+
+93
+00:07:54,440 --> 00:07:55,820
+Benar ya.
+
+94
+00:07:56,290 --> 00:07:58,400
+Begitu ternyata, tidak sabar!
+
+95
+00:07:58,450 --> 00:08:00,570
+Hei, Miyuki juga tidak sabar kan?
+
+96
+00:08:00,650 --> 00:08:01,970
+Ya, benar ya.
+
+97
+00:08:03,860 --> 00:08:06,340
+Tatsuya-san juga Miyuki, terima kasih.
+
+98
+00:08:06,930 --> 00:08:08,290
+Kenapa tiba-tiba?
+
+99
+00:08:08,620 --> 00:08:10,820
+Benar kata kakanda?
+
+100
+00:08:11,000 --> 00:08:12,650
+Ada apa, Shizuku?
+
+101
+00:08:12,770 --> 00:08:14,400
+Padahal tiba-tiba mengundang...
+
+102
+00:08:16,310 --> 00:08:19,940
+Berkat itu semua bisa berlibur di musim panas.
+
+103
+00:08:20,810 --> 00:08:22,580
+Malahan kami berterima kasih.
+
+104
+00:08:30,740 --> 00:08:31,690
+Silahkan.
+
+105
+00:08:36,000 --> 00:08:37,840
+Kakanda, itu...
+
+106
+00:08:41,820 --> 00:08:43,010
+Tumben sekali ya.
+
+107
+00:08:44,040 --> 00:08:45,890
+Pesawat kesatuan kusus kementrian pertahanan.
+
+108
+00:08:57,930 --> 00:08:58,960
+Kakanda?
+
+109
+00:08:59,360 --> 00:09:01,200
+Perintah berangkat dari militer.
+
+110
+00:09:03,840 --> 00:09:04,610
+Miyuki.
+
+111
+00:09:05,380 --> 00:09:07,300
+Lepaskan segelku.
+
+112
+00:09:08,740 --> 00:09:09,640
+Tapi…
+
+113
+00:09:10,170 --> 00:09:15,580
+Perintah yang membutuhkannya
+untuk menggunakan'Material Burst'.
+
+114
+00:09:16,080 --> 00:09:19,220
+Juga berhubungan dengan reputasi bibi.
+
+115
+00:09:22,050 --> 00:09:23,040
+Aku mengerti.
+
+116
+00:09:23,440 --> 00:09:26,850
+Jika bibi tidak keberatan, dengan senang hati.
+
+117
+00:10:09,920 --> 00:10:10,130
+Prefektur Ibaraki   Pangkalan Udara Ibaraki
+
+118
+00:10:10,130 --> 00:10:13,250
+Prefektur Ibaraki   Pangkalan Udara Ibaraki
+
+119
+00:10:18,650 --> 00:10:19,880
+Bersantailah.
+
+120
+00:10:20,080 --> 00:10:20,570
+Siap.
+
+121
+00:10:22,040 --> 00:10:23,440
+Langsung saja...
+
+122
+00:10:26,200 --> 00:10:30,900
+Diantara orbit bumi dan mars
+seharusnya menjadi celah kosong.
+
+123
+00:10:31,110 --> 00:10:34,570
+Kami menemukan kejanggalan
+perubahan orbit asteroid.
+
+124
+00:10:35,640 --> 00:10:37,840
+Janggal, benar?
+
+125
+00:10:38,130 --> 00:10:41,080
+Katanya tiba-tiba jalurnya berubah.
+
+126
+00:10:41,500 --> 00:10:46,140
+Dan ada kemungkinan jalur itu membentur bumi.
+
+127
+00:10:46,890 --> 00:10:51,770
+Menurut perhitungan itu kami mendapati
+lebih 90% kesempatan membentur.
+
+128
+00:10:52,140 --> 00:10:55,460
+Sudah dipastikan bertabrakan, begitu?
+
+129
+00:10:55,770 --> 00:10:56,480
+Benar.
+
+130
+00:10:56,840 --> 00:11:02,440
+Asteroid 2095GE9, codename: Sieg.
+
+131
+00:11:03,100 --> 00:11:06,890
+Ini adalah perhitungan lintasan
+dan titik tabrakan tertinggi...
+
+132
+00:11:07,040 --> 00:11:08,850
+Laut Cina Selatan.
+
+133
+00:11:10,040 --> 00:11:14,530
+Di Jepang, area Kyushu akan berdampak parah.
+
+134
+00:11:14,700 --> 00:11:16,970
+Kita tidak bisa membiarkan ini terjadi.
+
+135
+00:11:17,920 --> 00:11:20,460
+Oleh karena itu, kuperintahkan
+perwira khusus Ooguro...
+
+136
+00:11:21,860 --> 00:11:25,370
+hancurkan "Seig" menggunakan 'Material Burst'.
+
+137
+00:11:33,510 --> 00:11:37,700
+Penghancuran asteroid 2095GE9 telah di konfirmasi.
+
+138
+00:11:33,920 --> 00:11:34,040
+Pulau Selatan    Laboratorium Minami Tateshima
+
+139
+00:11:34,040 --> 00:11:34,130
+Pulau Selatan    Laboratorium Minami Tateshima
+
+140
+00:11:34,130 --> 00:11:37,700
+Pulau Selatan    Laboratorium Minami Tateshima
+
+141
+00:11:38,360 --> 00:11:41,220
+Penyihir pertahanan darat...
+
+142
+00:11:41,370 --> 00:11:43,360
+Ternyata terlibat juga kah?
+
+143
+00:11:44,620 --> 00:11:49,060
+Sayang sekali, tidak bisa mengatakan
+pengumpulan datanya cukup, tapi
+
+144
+00:11:49,610 --> 00:11:52,010
+Ini tidak perlu di lanjutkan.
+
+145
+00:11:53,550 --> 00:11:56,360
+Selanjutnya percobaan pemindahan orbit.
+
+146
+00:11:56,930 --> 00:12:00,000
+Satu hari, tidak... sudah besok kah.
+
+147
+00:12:00,450 --> 00:12:04,820
+30 maret pukul 19.00, percobaan akan di lakukan.
+
+148
+00:12:07,200 --> 00:12:08,710
+Sudah saatnya ya.
+
+149
+00:12:10,570 --> 00:12:16,650
+Jika percobaan ini sukses,
+angkatan laut pasti mengakui kita.
+
+150
+00:12:17,050 --> 00:12:18,620
+Tolong tunggu sebentar, ketua!
+
+151
+00:12:19,200 --> 00:12:23,240
+Anak-anak ini masih belum pulih
+dari dampak percobaan kali ini!
+
+152
+00:12:23,570 --> 00:12:27,540
+Sama seperti sebelumnya,
+setidaknya berselang satu minggu!
+
+153
+00:12:29,420 --> 00:12:30,730
+Morinaga-kun.
+
+154
+00:12:31,150 --> 00:12:36,380
+Apa ada bukti pemulihan setelah satu minggu?
+
+155
+00:12:36,880 --> 00:12:39,440
+Tapi aku tidak ingat ada data seperti itu.
+
+156
+00:12:40,770 --> 00:12:41,800
+Itu...
+
+157
+00:12:43,240 --> 00:12:46,880
+Ilmuan tidak melibatkan perasaan pribadi...
+
+158
+00:12:47,100 --> 00:12:50,850
+Kupikir harus menentukan melalui data yang pasti.
+
+159
+00:12:52,560 --> 00:12:55,000
+Tidak ada perubahan jadwal percobaan.
+
+160
+00:12:55,130 --> 00:12:59,420
+Tidak ada perubahan untuk alasan apapun.
+
+161
+00:13:28,200 --> 00:13:29,200
+29 Maret   Pulau Chichijima   Cabang Ogasawara
+
+162
+00:13:29,200 --> 00:13:29,410
+29 Maret   Pulau Chichijima   Cabang Ogasawara
+
+163
+00:13:29,410 --> 00:13:32,450
+29 Maret   Pulau Chichijima   Cabang Ogasawara
+
+164
+00:13:42,530 --> 00:13:44,220
+Ada apa ya?
+
+165
+00:13:45,360 --> 00:13:46,770
+Ini pesan rahasia?!
+
+166
+00:14:07,210 --> 00:14:08,380
+Mari, bangunlah!
+
+167
+00:14:11,220 --> 00:14:12,730
+Lihat ini sebentar.
+
+168
+00:14:12,960 --> 00:14:14,400
+Tidakkah terlalu dini?
+
+169
+00:14:14,840 --> 00:14:16,040
+Sudah pagi.
+
+170
+00:14:19,820 --> 00:14:20,600
+Ini.
+
+171
+00:14:20,800 --> 00:14:21,880
+Pahit…
+
+172
+00:14:26,740 --> 00:14:28,100
+Ini adalah…
+
+173
+00:14:39,140 --> 00:14:43,570
+Minami Tateshima
+
+174
+00:16:08,040 --> 00:16:10,810
+Disana pangkalan angkatan laut Honmaru?
+
+175
+00:16:12,240 --> 00:16:14,980
+Ada pusat perbelanjaan di sebelahnya...
+
+176
+00:16:15,330 --> 00:16:18,170
+Bukan berarti tetap pulau pribadi ya?
+
+177
+00:16:18,730 --> 00:16:26,170
+Sekalipun disini dikatakan area militer, masih
+tetap terikat tanda perjanjian untuk bisnis.
+
+178
+00:16:26,570 --> 00:16:28,330
+Tidak bisa disatukan.
+
+179
+00:16:28,480 --> 00:16:30,730
+Yoshida-kun, Leo-kun!
+
+180
+00:16:30,770 --> 00:16:32,240
+Mau pergi makan siang.
+
+181
+00:16:33,050 --> 00:16:34,280
+Akhinya!
+
+182
+00:16:34,330 --> 00:16:35,740
+Aku bosan menunggu!
+
+183
+00:16:36,460 --> 00:16:40,090
+Sudah pergi sejauh ini masih bosan,
+kau ini masih belum cukup ya.
+
+184
+00:16:40,130 --> 00:16:41,310
+Aku tidak mengerti maksudnya.
+
+185
+00:16:41,310 --> 00:16:42,570
+Pelatihan macam apa juga?
+
+186
+00:16:41,610 --> 00:16:44,000
+Hei, hei semuanya, mau makan apa?
+
+187
+00:17:01,850 --> 00:17:02,740
+Mayumi!
+
+188
+00:17:04,330 --> 00:17:05,290
+Ketemu?
+
+189
+00:17:05,520 --> 00:17:07,250
+Tidak, tidak sama sekali.
+
+190
+00:17:07,580 --> 00:17:08,800
+Aku coba cari disana.
+
+191
+00:17:08,880 --> 00:17:10,060
+Tolong!
+
+192
+00:17:19,960 --> 00:17:23,140
+Mizuki dan Tatsuya-kun sama-sama
+di departemen teknik sihir.
+
+193
+00:17:23,290 --> 00:17:24,970
+Miki rombel 1 kah...
+
+194
+00:17:25,160 --> 00:17:28,640
+Hei Miki... bagaimana perasaannya menjadi 'bloom'?
+
+195
+00:17:28,940 --> 00:17:30,370
+Tolong hentikan.
+
+196
+00:17:30,460 --> 00:17:33,340
+Aku tidak terpikir 'Bloom' atau 'Weed'.
+
+197
+00:17:34,080 --> 00:17:34,740
+Leo...
+
+198
+00:17:35,100 --> 00:17:36,220
+Ada apa?
+
+199
+00:17:37,910 --> 00:17:40,690
+Tidakkah di luar ada sesuatu.
+
+200
+00:17:46,820 --> 00:17:48,650
+Pasukan penjaga?
+
+201
+00:17:52,450 --> 00:17:54,010
+Tidak, polisi militer mungkin?
+
+202
+00:17:54,650 --> 00:17:56,900
+Apa di izinkan keluar dari pangkalan?
+
+203
+00:17:58,010 --> 00:17:59,450
+Tidak biasa.
+
+204
+00:17:59,710 --> 00:18:02,910
+Entah rasanya akan terjadi hal yang gawat.
+
+205
+00:18:03,050 --> 00:18:05,020
+Lebih baik cepat kembali ke vila.
+
+206
+00:18:05,560 --> 00:18:09,570
+Benar ya, lebih cepat dari rencana tapi ayo kembali?
+
+207
+00:18:17,610 --> 00:18:19,450
+Pintunya tetap terbuka.
+
+208
+00:18:22,740 --> 00:18:23,820
+Maaf.
+
+209
+00:18:23,900 --> 00:18:25,140
+Tertidur.
+
+210
+00:18:26,260 --> 00:18:29,120
+Tapi kealiannya bagus.
+
+211
+00:18:48,530 --> 00:18:49,800
+Periksa pesawatnya!
+
+212
+00:18:50,160 --> 00:18:51,660
+Kedalam pesawat yang disana!
+
+213
+00:18:51,780 --> 00:18:53,260
+Turunkan pintunya!
+
+214
+00:18:53,730 --> 00:18:54,810
+Mereka...
+
+215
+00:18:56,240 --> 00:18:57,260
+Erika?
+
+216
+00:19:01,650 --> 00:19:02,960
+Ada perlu apa?
+
+217
+00:19:06,450 --> 00:19:08,570
+E-Erika-ojousan?
+
+218
+00:19:08,800 --> 00:19:10,290
+Kalian…
+
+219
+00:19:10,410 --> 00:19:12,480
+Ada urusan apa dengan pesawat ini?
+
+220
+00:19:13,080 --> 00:19:15,570
+Aku dengar semacam perintah pencarian...
+
+221
+00:19:15,800 --> 00:19:22,040
+Itu... sebenarnya pasien melarikan diri dari pangkalan.
+
+222
+00:19:22,180 --> 00:19:22,970
+Sepertinya?
+
+223
+00:19:23,290 --> 00:19:24,140
+Iya!
+
+224
+00:19:24,250 --> 00:19:26,450
+Kami di beritahukan demikian!
+
+225
+00:19:26,680 --> 00:19:28,880
+Tidak ada di pesawat ini.
+
+226
+00:19:29,710 --> 00:19:31,580
+Tidak, tapi...
+
+227
+00:19:32,650 --> 00:19:35,170
+Setidaknya apa bisa kami mencari?
+
+228
+00:19:35,170 --> 00:19:37,450
+Sudah kubilang tidak ada disini kan?!
+
+229
+00:19:37,640 --> 00:19:38,410
+Ataukah...
+
+230
+00:19:38,900 --> 00:19:41,500
+...perkataanku tidak bisa di percaya?
+
+231
+00:19:43,020 --> 00:19:45,050
+Tidak, mohon permisi!
+
+232
+00:19:46,560 --> 00:19:47,820
+Sudahlah, ayo.
+
+233
+00:19:58,090 --> 00:20:01,570
+Para tentara tadi dari cabang Chiba?
+
+234
+00:20:02,320 --> 00:20:03,000
+Benar.
+
+235
+00:20:03,360 --> 00:20:06,140
+Sepertinya tidak lupa wajahku.
+
+236
+00:20:26,370 --> 00:20:27,810
+Omong-omong, Erika.
+
+237
+00:20:28,180 --> 00:20:29,900
+Kenapa melindungi anak itu?
+
+238
+00:20:31,020 --> 00:20:32,340
+Teryata ketahuan...
+
+239
+00:20:44,010 --> 00:20:45,820
+Sudah tidak apa-apa untuk keluar.
+
+240
+00:20:48,010 --> 00:20:49,320
+Keluarlah.
+
+241
+00:20:49,330 --> 00:20:50,620
+Tidak apa-apa.
+
+242
+00:21:20,080 --> 00:21:22,140
+Selamat datang kembali, nona muda.
+
+243
+00:21:22,600 --> 00:21:24,170
+Aku kembali, Takeuchi-san.
+
+244
+00:21:24,930 --> 00:21:26,620
+Tamunya sudah tiba?
+
+245
+00:21:26,860 --> 00:21:29,570
+Tamu yang nona muda maksud...
+
+246
+00:21:29,570 --> 00:21:31,170
+...masih belum datang.
+
+247
+00:21:31,440 --> 00:21:32,140
+Begitu.
+
+248
+00:21:32,450 --> 00:21:36,130
+Sebagai gantinya, dua marinir datang.
+
+249
+00:21:37,340 --> 00:21:41,260
+Mereka mengatakan sedang mencari
+pasien yang kabur dari pangkalan, tapi...
+
+250
+00:21:42,080 --> 00:21:45,980
+saya mengantarkan mencari
+mereka pergi setelah yakin.
+
+251
+00:21:46,450 --> 00:21:47,340
+Begitu.
+
+252
+00:21:47,850 --> 00:21:51,260
+Tetapi, kemana perginya gadis itu?
+
+253
+00:21:51,620 --> 00:21:53,690
+Di tempat yang di tentukan juga tidak ada.
+
+254
+00:21:53,970 --> 00:21:56,480
+Apa mungkin sudah tertangkap?
+
+255
+00:21:57,020 --> 00:22:01,500
+Karena sekarang banyak penjaga
+sedang berkeliling sekitar terminal...
+
+256
+00:22:01,680 --> 00:22:04,290
+Kupikir masih belum tertangkap.
+
+257
+00:22:04,640 --> 00:22:08,220
+Nona muda, mengenai itu saya tahu satu hal.
+
+258
+00:22:08,690 --> 00:22:09,600
+Apa?
+
+259
+00:22:10,490 --> 00:22:18,220
+Belum lama ada pesawat lain
+sekitar 100 meter dari terminal.
+
+260
+00:22:18,300 --> 00:22:21,860
+Saya rasa tinggi kemungkinan salah masuk.
+
+261
+00:22:22,250 --> 00:22:24,740
+Tolong selidiki pesawat darimana itu!
+
+262
+00:22:24,970 --> 00:22:26,420
+Jika bisa secepatnya!
+
+263
+00:22:38,010 --> 00:22:39,000
+Kakanda!
+
+264
+00:22:39,440 --> 00:22:41,130
+Sudah kembali ya.
+
+265
+00:22:41,290 --> 00:22:42,920
+Sekitar satu jam lalu.
+
+266
+00:22:43,440 --> 00:22:47,050
+Miyuki dan yang lain juga
+bukannya lebih cepat dari rencana?
+
+267
+00:22:49,000 --> 00:22:50,220
+Tatsuya-san!
+
+268
+00:22:50,640 --> 00:22:51,940
+Sudah kembali ternyata.
+
+269
+00:22:52,000 --> 00:22:53,090
+Terima kasih kerjanya.
+
+270
+00:22:57,280 --> 00:22:58,340
+Gadis itu?
+
+271
+00:23:32,250 --> 00:23:33,520
+Siapa nama kamu?
+
+272
+00:23:35,250 --> 00:23:37,370
+Aku Kokoa.
+
+273
+00:23:38,220 --> 00:23:39,420
+Kokoa?
+
+274
+00:23:39,980 --> 00:23:41,100
+Umur berapa?
+
+275
+00:23:42,680 --> 00:23:46,140
+Umur... empatbelas tahun.
+
+276
+00:23:48,650 --> 00:23:49,880
+Empatbelas tahun?!
+
+277
+00:23:50,490 --> 00:23:53,180
+Kupikir gadis yang lebih muda.
+
+278
+00:23:56,660 --> 00:24:00,690
+Kokoa lari dari pangkalan angkatan laut?
+
+279
+00:24:04,850 --> 00:24:08,480
+Laboraturium... penelitian...
+
+280
+00:24:09,080 --> 00:24:11,090
+Tahu penelitian apa?
+
+281
+00:24:11,940 --> 00:24:15,060
+Penelitian sihir.
+
+282
+00:24:16,140 --> 00:24:18,560
+Apa Kokoa-chan penyihir?
+
+283
+00:24:20,580 --> 00:24:22,000
+Penyihir?
+
+284
+00:24:27,510 --> 00:24:31,050
+Penyihir adalah orang yang bisa menggunakan sihir.
+
+285
+00:24:31,360 --> 00:24:33,420
+Kokoa-chan bukan penyihir?
+
+286
+00:24:35,910 --> 00:24:37,600
+Kami...
+
+287
+00:24:38,080 --> 00:24:42,170
+...di sebut 'Watatsumi series'.
+
+288
+00:24:47,340 --> 00:24:48,170
+Kakanda.
+
+289
+00:24:49,940 --> 00:24:52,450
+Pasti manusia kloning.
+
+290
+00:25:08,360 --> 00:25:12,560
+Lalu, Kokoa-chan melakukan apa di laboraturium?
+
+291
+00:25:13,610 --> 00:25:18,540
+Terkadang masuk ke dalam mesin besar.
+
+292
+00:25:18,920 --> 00:25:20,450
+Mesin besar?
+
+293
+00:25:22,760 --> 00:25:25,740
+Kemungkinannya... CAD besar.
+
+294
+00:25:26,660 --> 00:25:28,840
+Menggunakan CAD besar....
+
+295
+00:25:29,050 --> 00:25:33,060
+Penyihir bisa mengaktifkan dan
+mengendalikan semua rangkaian...
+
+296
+00:25:33,200 --> 00:25:38,010
+dan tidak jarang penyihir
+menjadi sebuah bagiannya.
+
+297
+00:25:38,490 --> 00:25:43,910
+Bisa di anggap Kokoa tidak
+mengerti apa dirinya lakukan.
+
+298
+00:25:45,400 --> 00:25:48,720
+Jadi... seolah seperti pengganti bagian mesin?
+
+299
+00:25:51,730 --> 00:25:54,410
+Kenapa lari dari laboraturium?
+
+300
+00:25:56,740 --> 00:26:00,760
+Di suruh untuk melarikan diri...
+
+301
+00:26:00,940 --> 00:26:02,130
+Oleh siapa?
+
+302
+00:26:02,220 --> 00:26:03,530
+Morinaga-san.
+
+303
+00:26:04,090 --> 00:26:07,740
+Seorang peneliti perempuan...
+
+304
+00:26:08,480 --> 00:26:12,530
+Tahu alasan kenapa orang
+itu menyuruh melarikan diri?
+
+305
+00:26:21,400 --> 00:26:22,540
+Kokoa...
+
+306
+00:26:25,690 --> 00:26:26,740
+Kokoa...
+
+307
+00:26:26,740 --> 00:26:28,310
+Larilah!
+
+308
+00:26:30,330 --> 00:26:32,230
+Jika terus melakukan percobaan,
+
+309
+00:26:32,400 --> 00:26:36,380
+kepribadianmu akan hilang dan menjadi boneka.
+
+310
+00:26:37,650 --> 00:26:39,130
+Sebelum itu...
+
+311
+00:26:39,810 --> 00:26:41,910
+Kita harus lakukan sesuatu...
+
+312
+00:26:45,540 --> 00:26:47,280
+Kepribadian akan menghilang?
+
+313
+00:26:49,340 --> 00:26:52,000
+Tatsuya-kun, apa hal itu mungkin?
+
+314
+00:26:52,320 --> 00:26:53,900
+Tidak bisa mengatakan tidak.
+
+315
+00:26:54,860 --> 00:26:55,820
+Kokoa.
+
+316
+00:27:00,110 --> 00:27:03,140
+Tatsuya-san, Kokoa-chan bukan berniat buruk.
+
+317
+00:27:03,210 --> 00:27:06,850
+Tidak, maaf Honoka, tolong jangan di pikirkan.
+
+318
+00:27:07,510 --> 00:27:12,930
+Tanyakan apa yang melakukan
+percobaannya CAD hanya Kokoa seorang.
+
+319
+00:27:14,580 --> 00:27:20,240
+Kokoa-chan, apa Kokoa-chan seorang
+yang masuk ke mesin yang besar itu?
+
+320
+00:27:24,700 --> 00:27:26,980
+Kami...
+
+321
+00:27:27,300 --> 00:27:31,040
+Kami artinya... apa tentang 'Watatsumi series'?
+
+322
+00:27:31,320 --> 00:27:36,360
+Kami maksudnya, apa tentang Kokoa-chan
+dan yang lain, 'Watatsumi series'?
+
+323
+00:27:36,820 --> 00:27:38,140
+Benar.
+
+324
+00:27:38,380 --> 00:27:41,370
+Kami bersembilan...
+
+325
+00:27:42,020 --> 00:27:44,200
+Total subyeknya sembilan kah...
+
+326
+00:27:45,040 --> 00:27:49,540
+Bagaimana perasaanmu
+setelah keluar dari mesin besar itu?
+
+327
+00:27:51,130 --> 00:27:52,440
+Perasaan?
+
+328
+00:27:58,570 --> 00:27:59,930
+Tentram.
+
+329
+00:28:00,810 --> 00:28:05,310
+Seperti sudah mencair...
+
+330
+00:28:05,760 --> 00:28:07,730
+Apanya yang mencair?
+
+331
+00:28:13,250 --> 00:28:14,520
+Aku...
+
+332
+00:28:15,940 --> 00:28:17,860
+Di dalam kami...
+
+333
+00:28:22,250 --> 00:28:25,650
+Artinya kehilangan kepribadian emosi.
+
+334
+00:28:25,720 --> 00:28:26,740
+Tidak mungkin!
+
+335
+00:28:28,600 --> 00:28:33,170
+Menghubungkan penggunaan sihir secara paksa,
+
+336
+00:28:33,310 --> 00:28:35,800
+untuk mengakfifkan sihir berskala besar.
+
+337
+00:28:36,680 --> 00:28:40,500
+Ada rumor beberapa organisasi
+menjalankan penelitian itu.
+
+338
+00:28:41,760 --> 00:28:45,460
+Kemungkinannya untuk
+mengembangkan penelitian itu kan?
+
+339
+00:28:53,600 --> 00:28:54,960
+Sembrono!
+
+340
+00:28:55,050 --> 00:28:59,020
+Melakukan hal itu, tidak
+mungkin jiwa penggunanya selamat!
+
+341
+00:29:11,760 --> 00:29:15,400
+Tolong... selamatkan.
+
+342
+00:29:21,500 --> 00:29:23,060
+Tenang saja.
+
+343
+00:29:23,320 --> 00:29:25,570
+Disini tidak akan mengeluarkanmu.
+
+344
+00:29:26,080 --> 00:29:29,110
+Akan kubantu sampai saat terakhir.
+
+345
+00:29:31,820 --> 00:29:36,220
+Tolong.. selamatkan kami.
+
+346
+00:29:37,510 --> 00:29:39,680
+Kami?
+
+347
+00:29:40,680 --> 00:29:45,200
+Tolong selamatkan delapan
+lainnya dari laboraturium, begitukan?
+
+348
+00:29:52,620 --> 00:29:57,080
+Jika mencoba menyelamatkan subyek
+penelitian rahasia angkatan laut..
+
+349
+00:29:57,700 --> 00:30:00,570
+Akan menimbulkan persoalan dengan angkatan laut.
+
+350
+00:30:09,540 --> 00:30:11,760
+Meski begitu aku ingin melakukan sesuatu!
+
+351
+00:30:12,900 --> 00:30:15,440
+Jika Honoka ingin melakukan,
+aku juga akan melakukan.
+
+352
+00:30:15,510 --> 00:30:19,010
+Sudah bertekat, tidak bisa kembali ya.
+
+353
+00:30:19,440 --> 00:30:21,890
+Aku juga ingin mengulurkan tangan.
+
+354
+00:30:22,640 --> 00:30:25,220
+Aku juga tidak keberatan, tapi...
+
+355
+00:30:25,930 --> 00:30:30,880
+Aku tidak bisa setuju jika Shibata,
+Kitayama dan Mitsui mengalami bahaya.
+
+356
+00:30:31,970 --> 00:30:33,900
+Tidak keberatan denganku?
+
+357
+00:30:34,380 --> 00:30:35,940
+Itu sudah jelas.
+
+358
+00:30:36,080 --> 00:30:38,200
+Miyuki jauh lebih kuat bukan?!
+
+359
+00:30:38,280 --> 00:30:41,060
+Erika, apa ada yang ingin di katakan?
+
+360
+00:30:41,170 --> 00:30:43,130
+Tidak, tidak ada.
+
+361
+00:30:44,360 --> 00:30:45,770
+Bercanda.
+
+362
+00:30:46,980 --> 00:30:49,810
+Yoshida-kun, aku baik-baik saja.
+
+363
+00:30:50,110 --> 00:30:52,620
+Tolong bantulah Kokoa-chan.
+
+364
+00:30:53,720 --> 00:30:54,910
+Shibata-san?
+
+365
+00:30:57,000 --> 00:30:58,000
+Aku mengerti.
+
+366
+00:30:59,820 --> 00:31:00,960
+Kakanda.
+
+367
+00:31:03,250 --> 00:31:03,920
+Aku juga...
+
+368
+00:31:05,010 --> 00:31:08,160
+ingin membantu Kokoa-chan dan yang lain.
+
+369
+00:31:56,120 --> 00:31:58,980
+Aku mengerti, ayo lakukan sesuatu.
+
+370
+00:32:43,710 --> 00:32:46,080
+Perintah dari markas pusat.
+
+371
+00:32:46,770 --> 00:32:50,450
+Laboraturium penelitian angakatan
+laut Minami Tateshima Jepang...
+
+372
+00:32:50,450 --> 00:32:55,660
+kita di perintahkan menghancurkan sepenuhnya
+fasilitas sihir termasuk obyek penelitian.
+
+373
+00:32:56,100 --> 00:33:02,910
+Apakah markas pusat memutuskan
+fasilitas sihir ini berbahaya untuk negara kita?
+
+374
+00:33:03,420 --> 00:33:05,660
+Bagi dunia..
+
+375
+00:33:06,210 --> 00:33:14,660
+Dasar penelitian yang di kembangkan adalah
+sihir peninggalan yang bisa melampaui bumi.
+
+376
+00:33:15,400 --> 00:33:17,560
+Jika itu di perbolehkan...
+
+377
+00:33:23,660 --> 00:33:30,020
+sihir berbahaya yang mampu menghancurkan
+entah itu sebuah kota dalam sekejap.
+
+378
+00:33:31,530 --> 00:33:32,820
+Letkol-dono...
+
+379
+00:33:33,340 --> 00:33:36,740
+tentang menghancurkan
+pusat penelitian sepenuhnya...
+
+380
+00:33:37,760 --> 00:33:42,980
+Apa termasuk menghancurkan otak para penelitinya?
+
+381
+00:33:43,820 --> 00:33:47,460
+Perintahnya adalah sepenuhnya
+menghancurkan termasuk data penelitian.
+
+382
+00:33:47,650 --> 00:33:49,740
+Aku tidak dengar selebihnya dari itu.
+
+383
+00:33:51,180 --> 00:33:54,340
+Itu artinya di serahakan ke anggota setempat?
+
+384
+00:33:54,340 --> 00:34:00,010
+Ralph, atasan setempat adalah aku,
+terlebih Letkol-dono yang menentukan.
+
+385
+00:34:00,220 --> 00:34:04,160
+Aku mengerti kapten, aku tidak melakukan seenaknya.
+
+386
+00:34:06,360 --> 00:34:07,370
+Bagus.
+
+387
+00:34:07,690 --> 00:34:09,530
+Baik aku jelaskan rencananya.
+
+388
+00:34:11,420 --> 00:34:14,620
+Rencana di mulai 27 jam dari sekarang.
+
+389
+00:34:14,860 --> 00:34:19,710
+Aku dan Hardy akan menyerang
+langsung ke fasilitas dari kapal selam.
+
+390
+00:34:20,770 --> 00:34:26,510
+Detilnya, aku akan menghancurkan
+pertahanan Minami Tateshima dengan sihir.
+
+391
+00:34:26,510 --> 00:34:28,100
+Hardy akan membantu.
+
+392
+00:34:28,690 --> 00:34:34,660
+Setelah itu Ben dan Ralph akan menyusup
+dari timur laut pulau dengan 'Thrust Suit'.
+
+393
+00:34:34,960 --> 00:34:39,050
+Setelah menghancurkan data dan obyek
+penelitian, tolong ledakkan laboraturiumnya.
+
+394
+00:34:39,480 --> 00:34:44,710
+Tetapi, jika rencana tidak berjalan
+seperti ini, tidak masalah langsung mundur.
+
+395
+00:34:45,000 --> 00:34:49,570
+Untuk tahap kedua, akan kuledakkan
+dengan 'Heavy Metal Burst'.
+
+396
+00:34:50,300 --> 00:34:53,080
+Apa di izinkan menggunakan sihir tingkat stategi?
+
+397
+00:34:53,740 --> 00:34:59,310
+Itu artinya markas pusat menganggap
+kali ini sebagai ancaman serius.
+
+398
+00:35:00,280 --> 00:35:06,740
+Pimpinan tidak membiarkan
+munculnya sihir baru mengancam dunia.
+
+399
+00:35:07,200 --> 00:35:11,080
+Dan militer Jepang pun memahami itu.
+
+400
+00:35:11,860 --> 00:35:13,140
+Begitulah.
+
+401
+00:35:14,080 --> 00:35:17,680
+Minami Tateshima yang menjadi markas militer...
+
+402
+00:35:17,840 --> 00:35:21,340
+di laporkan warga sipil di minta untuk
+pergi setelah matahari terbenam.
+
+403
+00:35:22,240 --> 00:35:24,860
+Seharusnya korban bisa di minimalkan.
+
+404
+00:35:25,410 --> 00:35:28,320
+Baiklah, tolong bersiap untuk menjalankan rencana!
+
+405
+00:35:34,760 --> 00:35:36,050
+Segarnya!
+
+406
+00:35:36,090 --> 00:35:37,640
+Benar ya!
+
+407
+00:35:39,210 --> 00:35:40,840
+Kokoa-chan, bagaimana?
+
+408
+00:35:41,250 --> 00:35:42,650
+Kalau begitu aku juga bantu!
+
+409
+00:35:42,850 --> 00:35:44,370
+Erika ini...
+
+410
+00:35:46,770 --> 00:35:48,680
+Jadi menutupi wajah bukan?
+
+411
+00:35:49,080 --> 00:35:51,170
+Begini lebih bersih kan?!
+
+412
+00:35:51,210 --> 00:35:52,770
+Lihat, berbusa!
+
+413
+00:35:52,970 --> 00:35:54,540
+Bagaimana? Segar kan?
+
+414
+00:35:54,760 --> 00:35:56,110
+Jangan menjahili!
+
+415
+00:35:56,220 --> 00:36:00,110
+Biar aku bilaskan, Kokoa-chan, tutup matamu.
+
+416
+00:36:00,200 --> 00:36:01,810
+Tenang saja, tutup rapat.
+
+417
+00:36:03,310 --> 00:36:06,570
+Honoka, busa apa apa ini?
+
+418
+00:36:06,810 --> 00:36:08,050
+Sampo.
+
+419
+00:36:08,110 --> 00:36:10,050
+Kokoa-chan tidak tahu sampo?
+
+420
+00:36:10,170 --> 00:36:12,140
+Tidak tahu…
+
+421
+00:36:12,210 --> 00:36:16,510
+Melihat kolam air hangat juga baru pertama kali...
+
+422
+00:36:16,600 --> 00:36:17,980
+Kolam air hangat?
+
+423
+00:36:21,450 --> 00:36:24,410
+Kokoa-chan tidak pernah mandi?
+
+424
+00:36:25,050 --> 00:36:27,080
+Iya.
+
+425
+00:36:27,220 --> 00:36:30,780
+Selalu pakai tangki steril.
+
+426
+00:36:40,850 --> 00:36:44,710
+Kalau begitu, harus menikmati
+saat mandi yang belum pernah ya.
+
+427
+00:36:51,310 --> 00:36:59,010
+Mandi bagi wanita itu tidak hanya sekedar
+membilas tubuh, juga persiapan agar cantik.
+
+428
+00:37:04,560 --> 00:37:07,540
+Hari ini akan kubuat menawan.
+
+429
+00:37:15,570 --> 00:37:16,800
+Apa terlalu cepat ya?!
+
+430
+00:37:17,050 --> 00:37:18,820
+Dan juga, semuanya sedang bersiap?
+
+431
+00:37:19,210 --> 00:37:20,450
+Dimana Kurosawa-san?
+
+432
+00:37:20,540 --> 00:37:22,450
+Sedang mengerjakan hal penting.
+
+433
+00:37:22,970 --> 00:37:24,120
+Hal penting?
+
+434
+00:37:25,220 --> 00:37:26,220
+Sebenarnya…
+
+435
+00:37:36,840 --> 00:37:38,190
+Sangat cantik lo...
+
+436
+00:37:38,680 --> 00:37:39,800
+Kokoa-chan..
+
+437
+00:37:50,340 --> 00:37:53,290
+Ukuran bajunya juga pas ya, syukurlah.
+
+438
+00:37:53,600 --> 00:37:55,370
+Kalau begitu, ayo makan.
+
+439
+00:37:55,540 --> 00:37:56,570
+Benar.
+
+440
+00:37:56,810 --> 00:37:59,060
+Kokoa-chan, ada apa?
+
+441
+00:37:59,800 --> 00:38:03,650
+Mayumi Saegusa-san ada dimana?
+
+442
+00:38:04,650 --> 00:38:08,420
+Mayumi Saegusa-san... Saegusa-senpai yang itu?
+
+443
+00:38:09,200 --> 00:38:11,080
+Disini tidak ada.
+
+444
+00:38:11,570 --> 00:38:13,840
+Ada perlu apa dengan Saegusa-senpai?
+
+445
+00:38:14,970 --> 00:38:22,450
+Morinaga-san bilang untuk
+minta tolong Mayumi Saegusa-san...
+
+446
+00:38:22,970 --> 00:38:24,720
+Ke Saegusa-senpai?
+
+447
+00:38:26,280 --> 00:38:32,880
+Pesawat itu bukan milik Mayumi-san?
+
+448
+00:38:33,730 --> 00:38:38,220
+Oh iya, ada pesawat bercorak
+sama yang berhenti di bandara.
+
+449
+00:38:38,220 --> 00:38:40,250
+Katakan hal itu lebih awal.
+
+450
+00:38:40,260 --> 00:38:41,450
+Jangan konyol!
+
+451
+00:38:41,450 --> 00:38:46,940
+Singkatnya, itu pesawat pribadi milik Saegusa-senpai?
+
+452
+00:38:47,130 --> 00:38:48,560
+Mungkin benar.
+
+453
+00:38:48,770 --> 00:38:51,000
+Mungkin datang untuk liburan kelulusan.
+
+454
+00:38:51,970 --> 00:38:53,100
+Kakanda.
+
+455
+00:38:53,280 --> 00:38:57,240
+Jadi salah paham, kupikir senior juga khawatir.
+
+456
+00:38:57,360 --> 00:39:03,220
+Kalau mau, aku bisa menelponkan atau mengirim pesan.
+
+457
+00:39:03,880 --> 00:39:04,900
+Benar ya.
+
+458
+00:39:04,970 --> 00:39:06,570
+Miyuki, tolong.
+
+459
+00:39:06,570 --> 00:39:07,900
+Dimengerti.
+
+460
+00:39:08,620 --> 00:39:09,650
+Semuanya sekalian...
+
+461
+00:39:10,450 --> 00:39:11,810
+Silahkan duduk.
+
+462
+00:39:13,050 --> 00:39:14,080
+Kelihatannya enak!
+
+463
+00:39:14,080 --> 00:39:15,480
+Nah, ayo makan.
+
+464
+00:39:40,600 --> 00:39:41,760
+Kakanda.
+
+465
+00:39:42,370 --> 00:39:44,690
+Apa boleh mengganggu?
+
+466
+00:39:45,220 --> 00:39:48,290
+Tidak masalah, duduklah disini.
+
+467
+00:39:55,220 --> 00:39:58,820
+Besok aku akan pergi ke Asosiasi Sihir
+dan markas besar Masumigaura.
+
+468
+00:39:59,260 --> 00:40:00,200
+Iya.
+
+469
+00:40:06,930 --> 00:40:10,810
+Jadi benar tidak bisa menghindari angkatan laut?
+
+470
+00:40:12,200 --> 00:40:16,650
+Apa menyelamatkan Kokoa-chan itu terlalu nekat?
+
+471
+00:40:17,700 --> 00:40:21,600
+Meskipun simpati, bukan
+perasaan yang sederhana bukan?
+
+472
+00:40:22,420 --> 00:40:23,610
+Itu…
+
+473
+00:40:39,520 --> 00:40:41,120
+Begitu niatku.
+
+474
+00:40:49,200 --> 00:40:49,960
+Aku juga...
+
+475
+00:40:50,680 --> 00:40:52,890
+tak bisa mengabaikan anak itu.
+
+476
+00:40:54,060 --> 00:41:00,010
+Aku mengerti memang tidak
+sesuai untuk simpati, tapi...
+
+477
+00:41:08,480 --> 00:41:13,560
+Kupikir itu juga bukan hal buruk untuk kakanda.
+
+478
+00:41:27,170 --> 00:41:30,900
+Mengesampingkan Kokoa dan yang lain
+juga ada hal yang membuatku penasaran.
+
+479
+00:41:40,580 --> 00:41:45,280
+Memanfaatkan tubuh manusia
+sebagai bagian CAD besar...
+
+480
+00:41:45,400 --> 00:41:51,210
+Penelitian sihir rahasia yang dapat
+merusak bagian penting manusia.
+
+481
+00:41:53,440 --> 00:41:55,500
+Ini tidak bisa dibiarkan.
+
+482
+00:41:56,290 --> 00:41:57,640
+Begitu yang kurasa.
+
+483
+00:42:20,850 --> 00:42:24,220
+30 Maret
+
+484
+00:42:25,480 --> 00:42:25,680
+Prefektur Ibaraki    Pangkalan Udara Kasumigaura
+
+485
+00:42:25,730 --> 00:42:30,270
+Prefektur Ibaraki    Pangkalan Udara Kasumigaura
+
+486
+00:42:29,820 --> 00:42:33,400
+Terima kasih banyak telah
+mempersiapkan 'combat mobile suit'...
+
+487
+00:42:34,080 --> 00:42:35,120
+Kapten Sanada.
+
+488
+00:42:36,480 --> 00:42:37,280
+Tidak, tidak.
+
+489
+00:42:37,610 --> 00:42:41,210
+Karena bagi kita ini kesempatan bagus
+untuk memperolah data percobaan.
+
+490
+00:42:41,650 --> 00:42:45,420
+Omong-omong, apa Asosiasi Sihir sudah bertindak?
+
+491
+00:42:46,050 --> 00:42:48,600
+Saya hanya melaporkan faktannya saja.
+
+492
+00:42:49,400 --> 00:42:52,200
+Bagaimana bergeraknya setelah ini,
+tergantung Asosiasi sendiri.
+
+493
+00:42:52,650 --> 00:42:57,410
+Penyihir yang mengabdi untuk Asosiasi
+Sihir, tidak bisa mengabaikan bukan?
+
+494
+00:42:57,820 --> 00:43:03,540
+Menugaskan penyihir yang
+lebih 18 tahun untuk bergerak...
+
+495
+00:43:03,940 --> 00:43:06,290
+...pertahanan negara bisa runtuh.
+
+496
+00:43:07,370 --> 00:43:09,380
+Tapi saya 16 tahun.
+
+497
+00:43:09,650 --> 00:43:12,450
+Itu adalah itu, ini adalah ini.
+
+498
+00:43:14,040 --> 00:43:14,770
+Benar.
+
+499
+00:43:14,820 --> 00:43:16,850
+Perwira khusus, bawalah ini.
+
+500
+00:43:17,620 --> 00:43:20,890
+Ini adalah 'Deep' dan penyimpanan 'Beta', benar?
+
+501
+00:43:21,580 --> 00:43:24,280
+Mengesampingkan 'Deep',
+'Beta' masih belum sempurna, jadi
+
+502
+00:43:24,280 --> 00:43:26,650
+saya pikir tidak begitu berguna di medan tempur.
+
+503
+00:43:28,660 --> 00:43:32,050
+Kami juga ingin minta tolong
+kumpulkan data bila ada kesempatan.
+
+504
+00:43:32,300 --> 00:43:35,200
+Tolong anggap saja seperti 'combat'.
+
+505
+00:43:36,200 --> 00:43:37,500
+Dimengerti.
+
+506
+00:43:38,930 --> 00:43:41,040
+Baiklah perwira khusus, hati-hati.
+
+507
+00:43:49,460 --> 00:43:51,850
+Selamat datang kembali, kakanda.
+
+508
+00:43:52,400 --> 00:43:53,450
+Aku pulang.
+
+509
+00:43:56,660 --> 00:43:58,570
+Apa Saegusa-senpai datang?
+
+510
+00:43:59,020 --> 00:44:02,320
+Ya, baru saja sampai.
+
+511
+00:44:05,850 --> 00:44:08,420
+Kamu Watatsumi Kokoa-chan?
+
+512
+00:44:09,110 --> 00:44:14,650
+Watatsumi series kode nomor 22, alias Kokoa...
+
+513
+00:44:15,020 --> 00:44:18,140
+Apa kamu Mayumi Saegusa-san?
+
+514
+00:44:18,570 --> 00:44:20,450
+Ya, benar.
+
+515
+00:44:20,600 --> 00:44:23,290
+Maaf kemarin tidak datang menolong.
+
+516
+00:44:26,400 --> 00:44:27,050
+Begitu...
+
+517
+00:44:27,580 --> 00:44:28,650
+Terima kasih.
+
+518
+00:44:29,930 --> 00:44:32,570
+Apa hubungan kalian berdua?
+
+519
+00:44:33,320 --> 00:44:39,980
+Kakakku Morinaga-sensei ikut dalam
+penelitian rahasia angkatan laut, tapi
+
+520
+00:44:43,650 --> 00:44:46,620
+Kokoa-chan di perlakukan tidak terlalu baik,
+
+521
+00:44:46,690 --> 00:44:48,970
+mereka datang untuk mencari perlindungan.
+
+522
+00:44:49,710 --> 00:44:51,680
+Begitu ternyata ya.
+
+523
+00:44:52,770 --> 00:44:55,810
+Baik, ayo pergi ke Tokyo bersama kakak.
+
+524
+00:44:57,800 --> 00:45:01,420
+Mengenai itu, ada yang ingin
+aku rundingkan dengan senior.
+
+525
+00:45:02,730 --> 00:45:03,740
+Apa ya?
+
+526
+00:45:04,200 --> 00:45:05,680
+Tidak hanya Kokoa,
+
+527
+00:45:05,860 --> 00:45:10,020
+bisa bawa semua selain aku
+pulang ke Tokyo bersama senior?
+
+528
+00:45:12,000 --> 00:45:13,930
+Semua selain Tatsuya-kun?
+
+529
+00:45:14,370 --> 00:45:15,260
+Benar.
+
+530
+00:45:15,560 --> 00:45:16,910
+Dan Shizuku...
+
+531
+00:45:17,160 --> 00:45:17,930
+Apa?
+
+532
+00:45:18,200 --> 00:45:21,570
+Bisa pinjam sebentar pesawat keluarga Kitayama?
+
+533
+00:45:22,450 --> 00:45:23,920
+Di gunakan untuk apa?
+
+534
+00:45:24,220 --> 00:45:27,930
+Ada delapan anak gadis lain yang
+berada di posisi sama seperti Kokoa.
+
+535
+00:45:28,140 --> 00:45:30,500
+Tatsuya-kun, apa rencanamu?
+
+536
+00:45:30,740 --> 00:45:33,280
+Kamu bermaksud menyelamatkan sendiri?
+
+537
+00:45:35,920 --> 00:45:36,810
+Aku mengerti.
+
+538
+00:45:37,200 --> 00:45:38,100
+Mayumi?
+
+539
+00:45:38,640 --> 00:45:43,060
+Permintaan untuk kita adalah
+membawa Kokoa-chan pulang ke Tokyo.
+
+540
+00:45:43,370 --> 00:45:46,420
+Selebihnya bukan tugas kita.
+
+541
+00:45:46,490 --> 00:45:48,620
+Kita hanya akan menghalangi, begitu?
+
+542
+00:45:48,770 --> 00:45:49,890
+Bukan.
+
+543
+00:45:50,220 --> 00:45:54,740
+Tatsuya-kun pikir ini bukan lawan
+yang seharusnya kita hadapi.
+
+544
+00:45:58,260 --> 00:45:59,330
+Aku mengerti.
+
+545
+00:46:00,050 --> 00:46:02,220
+Tatsuya-kun, berhati-hatilah.
+
+546
+00:46:07,250 --> 00:46:09,780
+Aku tidak akan menghambat langkah.
+
+547
+00:46:10,200 --> 00:46:14,920
+Selain itu, kupikir akan sulit menyelamatkan
+delapan teman Kokoa-chan sendirian.
+
+548
+00:46:15,620 --> 00:46:17,680
+Memang banyak orang lebih baik ya.
+
+549
+00:46:20,400 --> 00:46:22,480
+Aku juga akan tinggal.
+
+550
+00:46:25,820 --> 00:46:29,760
+Aku berpikir kalian tidak akan
+diam mendengar perkataanku.
+
+551
+00:46:29,850 --> 00:46:30,770
+Sudah jelas.
+
+552
+00:46:30,880 --> 00:46:32,800
+Jarang sekali, tapi sependapat ya.
+
+553
+00:46:32,820 --> 00:46:33,280
+Aku juga!
+
+554
+00:46:33,280 --> 00:46:34,120
+Kakanda.
+
+555
+00:46:34,300 --> 00:46:39,130
+Bukankah butuh seseorang
+untuk menjaga pesawat Shizuku?
+
+556
+00:46:39,200 --> 00:46:41,600
+Jika begitu, aku akan tinggal.
+
+557
+00:46:41,700 --> 00:46:46,370
+Kalau begitu, Yoshida-kun, apa bisa
+minta bantu menjaga bersama?
+
+558
+00:46:46,710 --> 00:46:49,650
+Kakanda, kalau seperti itu tidak keberatan bukan?
+
+559
+00:46:51,540 --> 00:46:52,580
+Aku mengerti.
+
+560
+00:46:52,880 --> 00:46:55,660
+Mikihiko, maaf tapi tolong bantuannya.
+
+561
+00:46:58,700 --> 00:47:01,000
+Sepertinya akan jadi liburan yang berat.
+
+562
+00:47:01,060 --> 00:47:02,600
+Sungguh.
+
+563
+00:47:02,660 --> 00:47:04,930
+Tolonglah, jangan lepas kendali.
+
+564
+00:47:08,740 --> 00:47:10,880
+Erika, apa itu?
+
+565
+00:47:12,100 --> 00:47:14,450
+Orochimaru versi miniatur...
+
+566
+00:47:14,700 --> 00:47:15,850
+Mizuchimaru.
+
+567
+00:47:16,170 --> 00:47:19,050
+Aku menyelipkan di pesawat Shizuku.
+
+568
+00:47:19,200 --> 00:47:20,900
+Enak selalu tersiapkan.
+
+569
+00:47:20,970 --> 00:47:23,610
+Karena tidak tahu apa yang akan terjadi.
+
+570
+00:47:27,400 --> 00:47:29,620
+Baik, tolong jaga rumah.
+
+571
+00:47:30,310 --> 00:47:33,000
+Ya, tolong berhati-hati.
+
+572
+00:47:33,480 --> 00:47:37,100
+Kokoa-chan, 'one-peace' ini benar-benar cocok ya.
+
+573
+00:47:37,820 --> 00:47:39,100
+Sangat lucu.
+
+574
+00:47:43,110 --> 00:47:44,900
+Zepelin JA8594.
+
+575
+00:47:45,450 --> 00:47:49,400
+Ikuti instruksi pesawat kami, segera
+kembali ke bandara Minami Tateshima.
+
+576
+00:47:51,820 --> 00:47:54,060
+Nona muda, harus bagaimana?
+
+577
+00:47:55,300 --> 00:47:56,680
+Tolong abaikan.
+
+578
+00:48:00,060 --> 00:48:02,020
+JA8594.
+
+579
+00:48:02,340 --> 00:48:04,020
+Ikuti instruksi kami!
+
+580
+00:48:05,090 --> 00:48:06,820
+Apa boleh buat ya.
+
+581
+00:48:10,210 --> 00:48:13,130
+Ini JA8594.
+
+582
+00:48:13,280 --> 00:48:17,540
+Benar-benar mohon maaf,
+tapi kami tidak bisa mengikuti.
+
+583
+00:48:17,880 --> 00:48:21,530
+Bila kembali ke Minami Tateshima
+dari sini, tidak cukup bahan bakar.
+
+584
+00:48:21,570 --> 00:48:22,380
+Jangan bercanda!
+
+585
+00:48:23,400 --> 00:48:26,640
+Daripada menuju Haneda,
+Minami Tateshima lebih dekat kan?!
+
+586
+00:48:27,020 --> 00:48:33,710
+Sayangnya tidak punya cadangan bahan
+bakar, jadi tidak bisa kembali ke Tokyo.
+
+587
+00:48:33,920 --> 00:48:39,280
+JA8594, kami himbaukan lagi,
+ikuti instruksi pesawat kami!
+
+588
+00:48:39,490 --> 00:48:42,140
+Tetapi tidak cukup bahan bakar...
+
+589
+00:48:46,850 --> 00:48:50,040
+JA8594, ini peringatan.
+
+590
+00:48:50,410 --> 00:48:52,200
+Selanjutnya akan kami tembak.
+
+591
+00:48:52,620 --> 00:48:54,090
+Kami serius.
+
+592
+00:48:55,570 --> 00:48:58,110
+Itu bisa runyam ya.
+
+593
+00:49:19,600 --> 00:49:21,210
+Tadi hanya peringatan.
+
+594
+00:49:21,260 --> 00:49:23,090
+Selanjutnya akan sungguhan.
+
+595
+00:49:23,540 --> 00:49:25,490
+Saya serius lo.
+
+596
+00:49:44,200 --> 00:49:47,360
+Bisakah menunggu sebentar disini?
+
+597
+00:49:48,220 --> 00:49:49,620
+Dimengerti.
+
+598
+00:49:53,770 --> 00:49:54,880
+Maaf menunggu.
+
+599
+00:49:55,260 --> 00:49:57,130
+Kalian berdua gantilah dengan ini.
+
+600
+00:49:59,400 --> 00:50:01,080
+Hei Tatsuya-kun.
+
+601
+00:50:01,200 --> 00:50:02,890
+Bagaimana cara mendapatkan ini?
+
+602
+00:50:03,800 --> 00:50:05,060
+Ingin tahu?
+
+603
+00:50:06,740 --> 00:50:08,100
+Hentikan saja.
+
+604
+00:50:09,900 --> 00:50:11,460
+Maaf menunggu.
+
+605
+00:50:14,000 --> 00:50:16,460
+Tatsuya, apaan itu?
+
+606
+00:50:16,760 --> 00:50:18,930
+Senjata rahasia kecil.
+
+607
+00:50:22,400 --> 00:50:23,700
+Erika, Leo...
+
+608
+00:50:24,010 --> 00:50:25,660
+Keluarkan terminal informasi.
+
+609
+00:50:27,100 --> 00:50:29,180
+Aku paham lokasi penelitiannya.
+
+610
+00:50:31,520 --> 00:50:32,460
+Sudah di terima?
+
+611
+00:50:33,410 --> 00:50:37,490
+Tampaknya lokasi labnya ada di area selatan.
+
+612
+00:50:38,230 --> 00:50:41,920
+Aku akan menyusup duluan dan
+mengeluarkan teman Kokoa keluar dari pulau.
+
+613
+00:50:42,100 --> 00:50:45,450
+Kalian berdua antar mereka ke kapal ini.
+
+614
+00:50:57,570 --> 00:51:00,930
+Ruang kendali, warga sipil sudah tidak tersisa?
+
+615
+00:51:01,400 --> 00:51:04,000
+Tidak bisa memastikan keberadaan warga sipil.
+
+616
+00:51:04,600 --> 00:51:06,030
+Sesuai rencanya ya.
+
+617
+00:51:06,220 --> 00:51:07,760
+Baik, operasi di mulai.
+
+618
+00:51:08,120 --> 00:51:09,290
+Yes, mam!
+
+619
+00:51:29,460 --> 00:51:32,340
+Kapal kalian memasuki
+wilayah negara kami tanpa izin.
+
+620
+00:51:32,610 --> 00:51:35,810
+Secepatnya keluar dari area.
+
+621
+00:51:36,520 --> 00:51:40,040
+Kami ulangi, kapal selam,
+segera menjauh dari area.
+
+622
+00:51:41,600 --> 00:51:44,120
+Percuma komandan, tidak ada tanggapan.
+
+623
+00:51:44,340 --> 00:51:46,900
+Luncurkan misil pertahanan.
+
+624
+00:51:47,890 --> 00:51:49,960
+Akan kita hancurkan?
+
+625
+00:51:50,420 --> 00:51:51,840
+Pertama, peringatan.
+
+626
+00:51:52,060 --> 00:51:54,030
+Bersiap dengan komando!
+
+627
+00:52:06,860 --> 00:52:08,760
+Mendeteksi peluncur roket.
+
+628
+00:52:08,940 --> 00:52:10,900
+Mengirim koordinat.
+
+629
+00:52:14,900 --> 00:52:15,960
+Koordinat dikonfirmasi.
+
+630
+00:52:18,830 --> 00:52:21,240
+Target... pertahanan peluncur roket.
+
+631
+00:52:23,060 --> 00:52:25,370
+'Heavy Metal Burst', diaktifkan!
+
+632
+00:52:44,090 --> 00:52:45,610
+Guncangan ini?
+
+633
+00:53:14,860 --> 00:53:18,130
+Letkol cukup bersemangat.
+
+634
+00:53:18,760 --> 00:53:21,180
+Ralph, berhenti tertawa konyol!
+
+635
+00:53:21,700 --> 00:53:23,040
+Tapi kapten...
+
+636
+00:53:23,130 --> 00:53:27,540
+Bagaimana? Jika begitu, sementara
+waktu kita tidak bisa menyusup.
+
+637
+00:53:28,320 --> 00:53:29,560
+Memang benar.
+
+638
+00:53:35,040 --> 00:53:38,360
+Sihir tadi adalah 'Heavy Metal Burst' milik Lina...
+
+639
+00:53:38,740 --> 00:53:40,400
+Kenapa 'Stars' ada disini?
+
+640
+00:53:41,260 --> 00:53:44,300
+Akan tetapi, tetap saja tidak tahu menahan diri.
+
+641
+00:53:52,960 --> 00:53:53,830
+Kebakaran?
+
+642
+00:53:53,970 --> 00:53:55,900
+Tidak, sepertinya bukan.
+
+643
+00:54:02,160 --> 00:54:05,680
+Aku tidak begitu paham, tapi ini kesempatan ya?
+
+644
+00:54:08,220 --> 00:54:10,960
+Akhirnya jaringan komunikasi melemah ya.
+
+645
+00:54:13,490 --> 00:54:17,860
+Tadi dengar laporan muncul
+kapal selam tidak di ketahui?
+
+646
+00:54:18,280 --> 00:54:19,890
+Aku juga dengar.
+
+647
+00:54:21,100 --> 00:54:24,440
+Di informasikan ke warga sipil untuk segera mengunsi!
+
+648
+00:54:28,920 --> 00:54:32,260
+Tampaknya serangan dari kapal selam...
+
+649
+00:54:32,500 --> 00:54:35,080
+menyebabkan kerusakan pertahanan angkatan laut.
+
+650
+00:54:36,000 --> 00:54:38,900
+Keluar perintah mengungsi untuk warga sipil.
+
+651
+00:54:59,660 --> 00:55:00,480
+Siapa kamu?
+
+652
+00:55:07,490 --> 00:55:09,700
+Apa tahu gadis bernama Kokoa?
+
+653
+00:55:11,130 --> 00:55:12,530
+Kamu kenal Kokoa?
+
+654
+00:55:13,090 --> 00:55:15,290
+Anak itu... apa anak itu baik?
+
+655
+00:55:15,690 --> 00:55:16,660
+Baik.
+
+656
+00:55:17,160 --> 00:55:18,860
+Apakah anda Morinaga-san?
+
+657
+00:55:19,200 --> 00:55:20,560
+Ya, benar.
+
+658
+00:55:21,600 --> 00:55:23,960
+Apa ketahuan kalau melepaskan Kokoa?
+
+659
+00:55:24,600 --> 00:55:25,500
+Tidak.
+
+660
+00:55:25,860 --> 00:55:27,970
+Tapi membiarkannya lari saja,
+
+661
+00:55:28,090 --> 00:55:30,330
+sudah cukup untuk di tahan.
+
+662
+00:55:31,730 --> 00:55:36,640
+Kami menerima permintaan untuk
+menyelamatkan Kokoa dan delapan lainnya.
+
+663
+00:55:37,960 --> 00:55:40,650
+Kamu akan menyelamatkan anak-anak itu?
+
+664
+00:55:41,080 --> 00:55:42,160
+Kumohon!
+
+665
+00:55:42,280 --> 00:55:45,080
+Meninggalkan kami pun tidak masalah!
+
+666
+00:55:45,540 --> 00:55:47,200
+Tolonglah anak-anak itu...
+
+667
+00:55:47,890 --> 00:55:52,380
+Jika sekhawatir itu, kenapa melakukan percobaan?
+
+668
+00:55:53,300 --> 00:55:57,660
+Menghubungkan dengan shir besar
+akan tidak akan memberi hasil bagus.
+
+669
+00:56:00,690 --> 00:56:02,600
+Benar kata kamu.
+
+670
+00:56:03,200 --> 00:56:05,620
+Kami terlalu berhasrat.
+
+671
+00:56:05,800 --> 00:56:08,170
+Tidak, terburu-buru.
+
+672
+00:56:08,900 --> 00:56:13,660
+Sihir strategi yang sanggup
+menghancurkan negara besar di Aliansi.
+
+673
+00:56:14,260 --> 00:56:22,630
+Angkatan laut menginginkan sihir penghancur
+yang lebih dari kilauan 'halloween'.
+
+674
+00:56:23,000 --> 00:56:26,130
+Kami pikir jika itu mungkin.
+
+675
+00:56:27,980 --> 00:56:30,610
+Tetapi itu adalah dosa kami.
+
+676
+00:56:31,200 --> 00:56:33,490
+Anak-anak itu adalah korban.
+
+677
+00:56:33,700 --> 00:56:37,970
+Jika demi menyelamatkan anak-anak itu,
+tidak masalah apa yang terjadi padaku!
+
+678
+00:56:38,780 --> 00:56:39,920
+Karena itu...
+
+679
+00:56:40,740 --> 00:56:43,260
+Ada dimana delapan lainnya?
+
+680
+00:56:44,360 --> 00:56:45,600
+Akan kuantar.
+
+681
+00:56:47,600 --> 00:56:49,940
+Saat ini anak-anak itu dalam percobaan.
+
+682
+00:56:50,860 --> 00:56:54,560
+Seperti apa sihir yang kalian kembangkan?
+
+683
+00:56:55,260 --> 00:57:00,460
+Kami membuat 'Meteorite Fall', di sebut bom asteroid.
+
+684
+00:57:00,940 --> 00:57:06,620
+Sihir yang merubah orbit
+planet kecil mengarah ke bumi.
+
+685
+00:57:07,370 --> 00:57:08,860
+Planet kecil?
+
+686
+00:57:10,400 --> 00:57:13,360
+Dua hari lalu asteroid 2095GE9...
+
+687
+00:57:14,100 --> 00:57:15,970
+apa itu ulah kalian?
+
+688
+00:57:16,400 --> 00:57:17,320
+Benar.
+
+689
+00:57:19,450 --> 00:57:20,890
+Kenapa tahu hal itu?
+
+690
+00:57:25,140 --> 00:57:28,000
+Lebih baik tidak menggunakan elevator.
+
+691
+00:57:29,700 --> 00:57:33,560
+Yang di lakukan sekarang adalah
+percobaan memindahkan orbit.
+
+692
+00:57:33,930 --> 00:57:37,580
+Dengan merubah orbit ke sebaliknya,
+
+693
+00:57:37,680 --> 00:57:44,030
+masa moderen, bisa di katakan jatuhnya
+satelit di masa depan bisa di hindari,
+
+694
+00:57:44,090 --> 00:57:47,260
+percobaan yang menjauhkan dari orbit bumi.
+
+695
+00:57:50,700 --> 00:57:55,780
+Tapi seharusnya satelit akan terbakar di atmosfir.
+
+696
+00:57:56,360 --> 00:58:00,580
+Apa untungnya sampai repot-repot merubah orbitnya?
+
+697
+00:58:03,700 --> 00:58:05,140
+Tujuan kali ini  adalah...
+
+698
+00:58:06,620 --> 00:58:10,170
+USNA, satelit militer...
+
+699
+00:58:10,640 --> 00:58:12,330
+'Sevens Plague'.
+
+700
+00:58:12,970 --> 00:58:13,930
+Apa?
+
+701
+00:58:14,020 --> 00:58:16,230
+Apa penanggung jawab disini sudah gila?
+
+702
+00:58:16,400 --> 00:58:20,620
+Satelit itu mengandung sekitar 60 ton uranium.
+
+703
+00:58:21,400 --> 00:58:24,390
+Andai percobaan memindahkan
+gagal dan jatuh ke bumi,
+
+704
+00:58:24,580 --> 00:58:27,420
+kerusakannya tidak akan terhitung!
+
+705
+00:58:28,260 --> 00:58:34,030
+Meski tidak begitu, dampak pemindahan
+akan setara dengan 30 misil nuklir,
+
+706
+00:58:34,140 --> 00:58:36,940
+dan menjadi pemicu peperangan.
+
+707
+00:58:37,220 --> 00:58:39,620
+Kemungkinan terburuknya perang dunia akan terjadi.
+
+708
+00:58:41,360 --> 00:58:41,870
+Mustahil!
+
+709
+00:58:41,870 --> 00:58:42,490
+Apa yang terjadi?
+
+710
+00:58:42,240 --> 00:58:43,360
+Pasti ada kesalahan!
+
+711
+00:58:43,490 --> 00:58:45,230
+Tidak ada salah perhitungan.
+
+712
+00:58:45,300 --> 00:58:46,300
+Lakukan sesuatu!
+
+713
+00:58:46,340 --> 00:58:47,800
+Kenapa jadi begini?
+
+714
+00:58:48,100 --> 00:58:49,940
+Bukannya keliru memastikan?
+
+715
+00:58:50,200 --> 00:58:52,420
+Bukannya kamu yang memastikan?
+
+716
+00:58:52,460 --> 00:58:52,960
+Mungkinkah...
+
+717
+00:58:53,690 --> 00:58:55,980
+Ketua, sebenarnya ada apa ini?
+
+718
+00:58:57,060 --> 00:58:58,650
+Morinaga-kun kah?
+
+719
+00:58:59,120 --> 00:59:00,970
+Ketua, apa yang terjadi?
+
+720
+00:59:01,400 --> 00:59:04,290
+Jangan bilang... bukan gagal kan?
+
+721
+00:59:05,020 --> 00:59:09,020
+'Sevens Plague' akan jatuh dalam 24 jam.
+
+722
+00:59:10,850 --> 00:59:12,620
+Bukannya sudah kubilang?!
+
+723
+00:59:12,680 --> 00:59:15,840
+Normalnya percobaan yang
+membutuhkan 12 pendukung,
+
+724
+00:59:15,940 --> 00:59:18,630
+mustahil dilakukan dengan hanya delapan!
+
+725
+00:59:19,200 --> 00:59:22,130
+Persiapan percobaan sudah akurat.
+
+726
+00:59:22,380 --> 00:59:24,780
+Percobaan sudah sempurna.
+
+727
+00:59:25,200 --> 00:59:30,340
+Data kali ini berperan besar
+dalam percobaan selanjutnya.
+
+728
+00:59:31,050 --> 00:59:32,060
+Jangan bercanda!
+
+729
+00:59:32,100 --> 00:59:33,300
+Tidak ada selanjutnya!
+
+730
+00:59:33,430 --> 00:59:35,130
+Tolong hentikan!
+
+731
+00:59:37,250 --> 00:59:39,600
+Yang menyebabkan hasil ini adalah...
+
+732
+00:59:39,810 --> 00:59:42,050
+ledakan tiba-tiba.
+
+733
+00:59:42,820 --> 00:59:47,100
+Pengaruh kuat akibat serangan
+sihir besar yang menghantam,
+
+734
+00:59:47,280 --> 00:59:49,140
+aktivasi sihir menjadi kacau.
+
+735
+00:59:49,380 --> 00:59:51,480
+Ini salah penyusup!
+
+736
+00:59:51,600 --> 00:59:53,920
+Hal itu tidak mungkin benar kan?
+
+737
+00:59:54,540 --> 00:59:56,290
+Aku tidak salah.
+
+738
+00:59:56,720 --> 00:59:58,100
+Tidak salah.
+
+739
+00:59:58,100 --> 00:59:59,690
+Aku tidak salah.
+
+740
+01:00:06,260 --> 01:00:08,080
+Percobaannya sudah berakhir.
+
+741
+01:00:08,410 --> 01:00:11,020
+Tidak perlu menahan mereka lagi kan?
+
+742
+01:00:37,890 --> 01:00:38,520
+Sia!
+
+743
+01:00:38,610 --> 01:00:40,320
+Bertahanlah, Sia!
+
+744
+01:00:51,660 --> 01:00:52,720
+Siapa?
+
+745
+01:00:53,200 --> 01:00:56,000
+Aku kesini atas permintaan Kokoa.
+
+746
+01:00:56,100 --> 01:00:57,040
+Kokoa?
+
+747
+01:00:57,580 --> 01:01:00,330
+Meminta untuk menyelamatkan kalian.
+
+748
+01:01:00,940 --> 01:01:02,060
+Apa bisa?
+
+749
+01:01:02,480 --> 01:01:05,120
+Jika kalian mengininkan itu...
+
+750
+01:01:10,160 --> 01:01:13,900
+Kumohon... selamatkan kami.
+
+751
+01:01:23,730 --> 01:01:24,680
+Tatsuya-kun!
+
+752
+01:01:24,760 --> 01:01:25,540
+Tatsuya!
+
+753
+01:01:25,820 --> 01:01:27,240
+Erika, Leo!
+
+754
+01:01:29,920 --> 01:01:31,480
+Syukurlah bisa bertemu.
+
+755
+01:01:32,900 --> 01:01:34,460
+Tolong jaga anak-anak ini.
+
+756
+01:01:34,480 --> 01:01:35,930
+Dia adalah Morinaga-san.
+
+757
+01:01:36,060 --> 01:01:37,000
+Tolong?
+
+758
+01:01:37,130 --> 01:01:37,890
+Tatsuya bagaimana?
+
+759
+01:01:37,920 --> 01:01:38,620
+Kakak...
+
+760
+01:01:40,970 --> 01:01:42,970
+Ingin menelantarkan kami?
+
+761
+01:01:43,800 --> 01:01:48,610
+Menyisakan data penelitian, tidak bisa
+di sebut benar-benar menyelamatkan.
+
+762
+01:01:50,160 --> 01:01:52,740
+Hanya akan untuk menciptakan kalian yang lain.
+
+763
+01:01:55,330 --> 01:01:57,260
+Jika begitu, aku terima!
+
+764
+01:01:57,360 --> 01:01:59,090
+Serahkan saja pada Tatsuya-kun.
+
+765
+01:01:59,690 --> 01:02:01,500
+Pergilah duluan!
+
+766
+01:02:01,810 --> 01:02:04,400
+Aku akan menyusul nanti.
+
+767
+01:02:12,760 --> 01:02:14,160
+Masih disini?
+
+768
+01:02:15,500 --> 01:02:17,090
+Mau apa datang kesini?
+
+769
+01:02:17,830 --> 01:02:21,170
+Masukkan data orbit 'Sevens Plague' kesini.
+
+770
+01:02:21,500 --> 01:02:23,580
+Kenapa aku harus lakukan itu?
+
+771
+01:02:23,580 --> 01:02:24,590
+Biar kukatakan,
+
+772
+01:02:24,880 --> 01:02:27,720
+tanpa bantuanmupun datanya akan kuambil.
+
+773
+01:02:28,240 --> 01:02:32,620
+Membiarkanmu lolos karena aku
+tidak ingin menyia-nyiakan waktu.
+
+774
+01:02:48,760 --> 01:02:49,820
+Sudah selesai?
+
+775
+01:03:03,640 --> 01:03:04,500
+Apa yang kau lakukan?
+
+776
+01:03:10,660 --> 01:03:11,660
+Menghapus!
+
+777
+01:03:13,380 --> 01:03:14,240
+Tolong hentikan!
+
+778
+01:03:44,260 --> 01:03:45,120
+Hati-hati!
+
+779
+01:03:49,160 --> 01:03:50,170
+Hati-hati!
+
+780
+01:04:10,480 --> 01:04:12,040
+Jangan, kembalilah!
+
+781
+01:04:27,560 --> 01:04:29,000
+Polisi militer?
+
+782
+01:04:29,810 --> 01:04:31,620
+Bukan 'mobile suit' ya...
+
+783
+01:04:32,100 --> 01:04:33,340
+Siapa kalian?!
+
+784
+01:04:35,330 --> 01:04:36,480
+Anak-anak itu...
+
+785
+01:04:37,100 --> 01:04:41,210
+Ralph, gadis-gadis itu adalah
+pengoperasi 'Meteorite Fall'!
+
+786
+01:04:42,410 --> 01:04:43,430
+Itu artinya...
+
+787
+01:04:43,430 --> 01:04:46,200
+Mereka semua boleh di bunuh?
+
+788
+01:04:47,530 --> 01:04:48,740
+Tidak ada pilihan.
+
+789
+01:04:50,830 --> 01:04:53,060
+Dilaksanakan!
+
+790
+01:04:54,100 --> 01:04:55,700
+Kalian mundurulah!
+
+791
+01:04:55,930 --> 01:04:57,290
+Morinaga-san, tolong!
+
+792
+01:04:57,410 --> 01:04:58,830
+Kalian... kesini!
+
+793
+01:05:00,700 --> 01:05:02,500
+Jangan buru-buru.
+
+794
+01:05:02,540 --> 01:05:06,940
+Yah, kami tidak akan santa-santai.
+
+795
+01:05:25,010 --> 01:05:28,010
+Tampaknya bukan lawan yang segan-segan ya.
+
+796
+01:05:28,160 --> 01:05:29,460
+Siegfried!
+
+797
+01:05:48,860 --> 01:05:51,180
+Tampaknya dia ini akan menghibur.
+
+798
+01:05:51,280 --> 01:05:53,030
+Dasar orang biadab.
+
+799
+01:05:53,610 --> 01:05:55,560
+Ralph, dasar bodoh!
+
+800
+01:06:04,960 --> 01:06:06,920
+Kenapa menghentikan serangan?
+
+801
+01:06:07,460 --> 01:06:12,960
+Membenturkan dengan katana
+itu terasa ada yang berbahaya ya.
+
+802
+01:06:20,720 --> 01:06:23,120
+Pergerakan ini sama dengan Lina?
+
+803
+01:06:24,050 --> 01:06:26,280
+Kalian 'Stars' ya?
+
+804
+01:06:26,530 --> 01:06:27,570
+Jadi begitu.
+
+805
+01:06:27,630 --> 01:06:31,770
+Kesatria wanita dari keluarga Chiba
+yang ada di laporan Letkol-dono kah?
+
+806
+01:06:39,810 --> 01:06:40,640
+Berisik!
+
+807
+01:06:41,400 --> 01:06:42,250
+Tutup mulutmu!
+
+808
+01:06:55,500 --> 01:06:56,930
+Dapat!
+
+809
+01:07:08,800 --> 01:07:10,400
+Juumonji-senpai?!
+
+810
+01:07:10,970 --> 01:07:12,530
+Katsuo Juumonji ?!
+
+811
+01:07:12,810 --> 01:07:14,010
+Saijou, Chiba.
+
+812
+01:07:14,330 --> 01:07:16,720
+Sedang apa kalian di tempat seperti ini?
+
+813
+01:07:17,040 --> 01:07:18,430
+Pakaian apa itu?
+
+814
+01:07:18,700 --> 01:07:20,400
+I-Ini…
+
+815
+01:08:02,100 --> 01:08:05,020
+Inikah 'PhalanX' Katsuo Juuminji?
+
+816
+01:08:05,530 --> 01:08:07,960
+Kesatuan khusus Stars.
+
+817
+01:08:08,160 --> 01:08:09,760
+Kenapa datang ke Jepang?
+
+818
+01:08:39,220 --> 01:08:41,660
+Teknik pedang rahasia, Kirikage!
+
+819
+01:09:12,850 --> 01:09:14,920
+Mohon maaf, Letkol.
+
+820
+01:09:15,530 --> 01:09:16,610
+Kami gagal.
+
+821
+01:09:17,520 --> 01:09:18,930
+Ben, kamu...
+
+822
+01:09:19,330 --> 01:09:21,260
+Tidak, dimengerti.
+
+823
+01:09:21,440 --> 01:09:23,660
+Masuk ke rencana tahap dua.
+
+824
+01:09:23,730 --> 01:09:27,460
+Mirphak, apa sisten koordinatnya sudah pulih?
+
+825
+01:09:27,460 --> 01:09:28,730
+Masih belum.
+
+826
+01:09:29,040 --> 01:09:32,060
+Baik, aku akan serang langsung dari langit.
+
+827
+01:09:48,410 --> 01:09:51,060
+Menurut data orbit dari penelitian,
+
+828
+01:09:51,490 --> 01:09:55,920
+seharusnya 'Sevens Plague'
+sudah terlihat di timur laut.
+
+829
+01:10:01,820 --> 01:10:03,920
+Jika di serang dengan 'Material Burst',
+
+830
+01:10:04,080 --> 01:10:06,700
+seharusnya pecahan uranium akan tersebear.
+
+831
+01:10:09,440 --> 01:10:12,730
+Untuk meleyapkan sepenuhnya kontaminasi uranium,
+
+832
+01:10:12,960 --> 01:10:17,800
+tidak ada pilihan selain memurnikan
+netron dengan 'Beta Trident'.
+
+833
+01:10:24,080 --> 01:10:27,900
+'Sevens Plague' tidak ada di jalur orbit?
+
+834
+01:10:32,700 --> 01:10:33,640
+Apa?
+
+835
+01:10:34,330 --> 01:10:35,250
+Itu...
+
+836
+01:10:36,160 --> 01:10:37,060
+Lina?
+
+837
+01:10:40,430 --> 01:10:41,720
+Mengunci target.
+
+838
+01:10:45,250 --> 01:10:46,930
+Memulai rangkaian pengaktifan.
+
+839
+01:10:48,800 --> 01:10:50,770
+Di saat tidak ada waktu, malah bertindak gegabah.
+
+840
+01:10:52,140 --> 01:10:56,010
+Di pulau masih ada Erika dan Leo,
+selain itu juga ada wisatawan!
+
+841
+01:10:57,560 --> 01:10:58,940
+'Heavy Metal Burst',
+
+842
+01:10:59,690 --> 01:11:00,500
+diaktifkan.
+
+843
+01:11:03,760 --> 01:11:05,930
+'Deep Mist Dispersion'...
+
+844
+01:11:06,420 --> 01:11:07,400
+diaktifkan!
+
+845
+01:11:17,730 --> 01:11:21,300
+'Heavy Metal Burst' di hentikan paksa?
+
+846
+01:11:21,900 --> 01:11:24,130
+Plasma-nya menyebar...
+
+847
+01:11:26,360 --> 01:11:27,240
+Mana targetnya?
+
+848
+01:11:30,220 --> 01:11:32,680
+Apa yang terjadi?
+
+849
+01:11:47,970 --> 01:11:50,500
+Pemindahan pemurnian ke mineral terdekat.
+
+850
+01:11:50,880 --> 01:11:52,850
+'Mist Dispersion', diaktifkan.
+
+851
+01:12:15,660 --> 01:12:19,610
+Ini... boleh dianggap misi sukses kan?
+
+852
+01:12:29,890 --> 01:12:33,020
+Pengintai satelit telah pulih.
+
+853
+01:12:33,140 --> 01:12:34,740
+Tampilkan gambar ke layar.
+
+854
+01:12:36,900 --> 01:12:39,650
+Kapten, ada pesan dari armada pusat.
+
+855
+01:12:39,810 --> 01:12:40,800
+Bacakan.
+
+856
+01:12:41,060 --> 01:12:45,930
+Satelit militer, 'Sevens Plague'
+telah di pastikan masuk titik jatuh?!
+
+857
+01:12:46,300 --> 01:12:47,490
+Selanjutnya bagaimana?
+
+858
+01:12:47,680 --> 01:12:48,240
+Baik.
+
+859
+01:12:48,610 --> 01:12:49,930
+Titik jatuhnya adalah...
+
+860
+01:12:50,060 --> 01:12:55,130
+Garis lintang 27, plus minus 5,
+garis bujur 142, plus minus 5.
+
+861
+01:12:56,060 --> 01:12:57,170
+Kantor pusat...
+
+862
+01:12:57,600 --> 01:13:00,380
+Lalu, apa perintah dari komandan?
+
+863
+01:13:00,580 --> 01:13:07,100
+Semua armada di pasifik harus kembali
+ke pangkalan Hawaii dalam 48 jam, begitu.
+
+864
+01:13:08,570 --> 01:13:09,930
+Meminta yang tidak mungkin.
+
+865
+01:13:10,520 --> 01:13:12,500
+Keluarkan tranmisi perintah mundur!
+
+866
+01:13:12,620 --> 01:13:14,170
+Lakukan sesegera mungkin.
+
+867
+01:13:14,380 --> 01:13:15,290
+Siap laksanakan!
+
+868
+01:13:16,040 --> 01:13:16,840
+Kapten.
+
+869
+01:13:17,290 --> 01:13:18,140
+Ada apa?
+
+870
+01:13:21,360 --> 01:13:24,570
+Tolong izinkan menggunakan serangan misil darat.
+
+871
+01:13:31,220 --> 01:13:33,010
+Bisa lebih mendekat?
+
+872
+01:13:34,080 --> 01:13:35,610
+Masih terbakar!
+
+873
+01:13:35,650 --> 01:13:37,160
+Tidak bisa lebih dari ini.
+
+874
+01:13:39,850 --> 01:13:40,970
+Ada apa?
+
+875
+01:13:44,410 --> 01:13:46,220
+Tolong berhenti disini.
+
+876
+01:14:08,630 --> 01:14:09,760
+Baik, aku duluan.
+
+877
+01:14:18,020 --> 01:14:21,000
+Tate-san, tolong lanjutkan ke pendaratan!
+
+878
+01:14:31,830 --> 01:14:34,460
+Tidak bisa sebaik yang kakanda lakukan, tapi...
+
+879
+01:14:37,730 --> 01:14:40,940
+Ini sudah cukup untuk menghentikan pergerakan.
+
+880
+01:14:43,340 --> 01:14:44,490
+Membekulah.
+
+881
+01:14:47,400 --> 01:14:48,600
+Apa yang terjadi?
+
+882
+01:14:50,080 --> 01:14:51,440
+Es...
+
+883
+01:14:52,130 --> 01:14:52,960
+Kapalnya...
+
+884
+01:14:53,580 --> 01:14:56,030
+terangkat, tidak, terdampar.
+
+885
+01:14:56,060 --> 01:14:58,440
+Terkunci di pembekuan berskala luas...
+
+886
+01:15:02,460 --> 01:15:03,480
+Ini...
+
+887
+01:15:05,300 --> 01:15:06,530
+Letkol-dono!
+
+888
+01:15:07,000 --> 01:15:10,130
+Hardy, aku akan menuju ke kapal New Mexico.
+
+889
+01:15:10,830 --> 01:15:13,960
+Tolong kalian selidiki penyihir pertahanan musuh.
+
+890
+01:15:21,740 --> 01:15:23,600
+Yang bisa melakukan ini...
+
+891
+01:15:24,120 --> 01:15:25,140
+Miyuki?
+
+892
+01:15:38,330 --> 01:15:40,160
+New Mexico, apa kalian dengar?
+
+893
+01:15:40,160 --> 01:15:41,640
+Ini Mayor Sirius.
+
+894
+01:15:41,920 --> 01:15:44,040
+Kapten regu, Canopus.
+
+895
+01:15:44,530 --> 01:15:46,630
+Setelah ini esnya akan saya cairkan.
+
+896
+01:15:46,810 --> 01:15:50,000
+Saat bisa bergerak, tolong segera mundur.
+
+897
+01:15:54,690 --> 01:15:55,970
+Muspelheim!
+
+898
+01:16:16,720 --> 01:16:17,770
+Lina!
+
+899
+01:16:18,680 --> 01:16:20,460
+Apa kamu dengar, Lina?
+
+900
+01:16:21,120 --> 01:16:23,770
+Suara itu... Tatsuya?
+
+901
+01:16:24,570 --> 01:16:25,390
+Lina...
+
+902
+01:16:25,760 --> 01:16:28,140
+Apa kamu tahu satelit militer AS?
+
+903
+01:16:28,600 --> 01:16:29,850
+Apaan tiba-tiba?
+
+904
+01:16:30,240 --> 01:16:31,480
+Kenapa dengan itu?
+
+905
+01:16:32,020 --> 01:16:33,520
+Jatuh ke bumi.
+
+906
+01:16:33,680 --> 01:16:34,900
+Apa?
+
+907
+01:16:35,060 --> 01:16:39,460
+Seharusnya armada USA sudah
+menyampaikan kebenarannya.
+
+908
+01:16:41,630 --> 01:16:43,860
+Maju! Umi no Yamada!
+
+909
+01:17:07,940 --> 01:17:09,220
+Apa?
+
+910
+01:17:09,320 --> 01:17:10,810
+Apa itu benar?
+
+911
+01:17:11,090 --> 01:17:13,240
+Sepertinya sudah memastikan ya.
+
+912
+01:17:13,340 --> 01:17:16,420
+Ben, maaf, akan kuputus sebentar.
+
+913
+01:17:16,560 --> 01:17:17,560
+Lina.
+
+914
+01:17:18,330 --> 01:17:22,570
+Aku punya cara menghancurkan
+'Sevens Plague' sepenuhnya.
+
+915
+01:17:24,540 --> 01:17:26,610
+Aku perlu bantuanmu.
+
+916
+01:17:27,850 --> 01:17:29,090
+Kenapa aku?
+
+917
+01:17:29,440 --> 01:17:36,380
+Pencegahan jadi sulit adalah karena 'Heavy Metal
+Burst' milikmu mengacaukan pengamatan optikku.
+
+918
+01:17:38,530 --> 01:17:40,210
+Aku harus apa?
+
+919
+01:17:53,860 --> 01:17:54,730
+Miyuki?
+
+920
+01:17:56,100 --> 01:17:57,220
+Kakanda?
+
+921
+01:17:57,380 --> 01:17:58,890
+Aku akan kesana sekarang!
+
+922
+01:17:58,960 --> 01:18:02,730
+Lina juga menuju ke tempat itu, tolong jangan di serang.
+
+923
+01:18:02,730 --> 01:18:04,360
+Lina akan datang?
+
+924
+01:18:05,490 --> 01:18:08,360
+Kekuatan Lina juga di gunakan, benar?
+
+925
+01:18:09,010 --> 01:18:10,290
+Dimengerti.
+
+926
+01:18:10,730 --> 01:18:13,330
+Akan kutunggu, kakanda.
+
+927
+01:18:26,200 --> 01:18:28,060
+Kurang dari 24 jam?
+
+928
+01:18:31,630 --> 01:18:32,310
+Lina...
+
+929
+01:18:32,660 --> 01:18:36,560
+Tolong kamu bawa aku ke ketinggian 140 km.
+
+930
+01:18:37,560 --> 01:18:39,400
+Dan dalam 10 menit.
+
+931
+01:18:39,530 --> 01:18:42,860
+Ketinggian 140 km, bukannya sudah angkasa?
+
+932
+01:18:42,960 --> 01:18:47,970
+Untuk menghindari kontaminasi, kubawa
+sampai stratosfir saja sudah cukup bukan?
+
+933
+01:18:48,050 --> 01:18:52,200
+Sihir yang akan kugunakan sekarang
+bukan yang bisa di tembakkan berkali-kali.
+
+934
+01:18:52,400 --> 01:18:54,920
+Sihirku akan menjadi sekali penentuan.
+
+935
+01:18:55,300 --> 01:18:56,000
+Karena itu...
+
+936
+01:18:56,300 --> 01:18:58,420
+aku ingin menghancurkannya dengan pasti.
+
+937
+01:18:59,820 --> 01:19:02,000
+Ataukah... tidak bisa?
+
+938
+01:19:02,640 --> 01:19:04,140
+Bisa tahu!
+
+939
+01:19:04,220 --> 01:19:09,030
+Akan kubuktikan bisa melakukannya
+dengan sempurna tanpa cacat sedikitpun!
+
+940
+01:19:09,660 --> 01:19:13,360
+Tapi, bahkan akupun tidak
+bisa membantu sampai kembali.
+
+941
+01:19:13,930 --> 01:19:15,650
+Aku ingin minta tolong itu ke Miyuki.
+
+942
+01:19:16,760 --> 01:19:17,600
+Miyuki...
+
+943
+01:19:17,940 --> 01:19:22,050
+aku pasti jatuh dengan kondisi hampir
+tidak bisa menggunakan sihir kan?!
+
+944
+01:19:23,180 --> 01:19:24,730
+Apa kau bisa menolong?
+
+945
+01:19:25,930 --> 01:19:28,460
+Tolong serahkan padaku, kakanda.
+
+946
+01:19:28,930 --> 01:19:34,760
+Dengan segenap kemampuanku akan mengantar
+kakanda ke tempat ini dengan selamat.
+
+947
+01:19:35,400 --> 01:19:37,050
+Tolong ya, Miyuki.
+
+948
+01:19:37,200 --> 01:19:37,970
+Baik.
+
+949
+01:19:44,220 --> 01:19:45,920
+Persiapan selesai?
+
+950
+01:19:49,530 --> 01:19:50,960
+Kapan saja boleh.
+
+951
+01:19:51,430 --> 01:19:52,340
+Oke.
+
+952
+01:20:21,810 --> 01:20:22,370
+5.
+
+953
+01:20:26,930 --> 01:20:27,560
+4.
+
+954
+01:20:28,760 --> 01:20:29,360
+3.
+
+955
+01:20:30,460 --> 01:20:31,030
+2
+
+956
+01:20:32,160 --> 01:20:32,780
+1.
+
+957
+01:20:34,430 --> 01:20:35,030
+Go!
+
+958
+01:21:29,760 --> 01:21:33,000
+'Beta Trident', memulai rangkaian pengaktifan.
+
+959
+01:21:36,570 --> 01:21:38,120
+Mengalisa struktur molekul...
+
+960
+01:21:38,730 --> 01:21:40,560
+Menyusun, selesai.
+
+961
+01:21:45,660 --> 01:21:49,410
+Menganalisa struktur atom... menyusun... selesai.
+
+962
+01:21:51,940 --> 01:21:54,410
+Menyusun aktivasi penghancuran 'Beta',
+
+963
+01:21:57,960 --> 01:21:59,000
+selesai.
+
+964
+01:22:05,700 --> 01:22:07,240
+'Beta Trident'...
+
+965
+01:22:10,160 --> 01:22:10,880
+diaktifkan!
+
+966
+01:23:20,260 --> 01:23:21,620
+Memang hebat...
+
+967
+01:23:26,300 --> 01:23:27,700
+Kakanda!
+
+968
+01:24:03,520 --> 01:24:04,690
+Kakanda!
+
+969
+01:24:13,010 --> 01:24:14,200
+Misi…
+
+970
+01:24:14,970 --> 01:24:16,600
+bukan ya...
+
+971
+01:24:16,600 --> 01:24:17,490
+Selesai.
+
+972
+01:24:22,410 --> 01:24:22,530
+Asosiasi Sihir Kanto
+
+973
+01:24:22,530 --> 01:24:22,660
+Asosiasi Sihir Kanto
+
+974
+01:24:22,660 --> 01:24:25,700
+Asosiasi Sihir Kanto
+
+975
+01:24:35,460 --> 01:24:36,460
+31 Maret   Ruang Rapat . Asosiasi Sihir
+
+976
+01:24:36,460 --> 01:24:36,550
+31 Maret   Ruang Rapat . Asosiasi Sihir
+
+977
+01:24:36,550 --> 01:24:38,550
+31 Maret   Ruang Rapat . Asosiasi Sihir
+
+978
+01:24:51,270 --> 01:24:55,690
+1 April   Kediaman Kitayama
+
+979
+01:25:01,860 --> 01:25:03,160
+Sampai jumpa ya.
+
+980
+01:25:03,250 --> 01:25:04,260
+Sehat-sehat ya.
+
+981
+01:25:20,880 --> 01:25:26,350
+n
+
+982
+01:25:20,880 --> 01:25:26,350
+Gadis yang Memanggil Bintang
+
+983
+01:29:22,320 --> 01:29:53,320
+animeshiba
+
+984
+01:29:28,000 --> 01:29:28,170
+6 April 2096   Tahun Ajaran Baru
+
+985
+01:29:28,170 --> 01:29:29,050
+6 April 2096   Tahun Ajaran Baru
+
+986
+01:29:29,050 --> 01:29:29,130
+6 April 2096   Tahun Ajaran Baru
+
+987
+01:29:29,130 --> 01:29:31,130
+6 April 2096   Tahun Ajaran Baru
